@@ -1,0 +1,12 @@
+{
+  "benchmark": "Resume Classification Corpus",
+  "count": 2485,
+  "categories": [
+    "AI/ML",
+    "Web Development",
+    "DevOps",
+    "Data Science",
+    "Security"
+  ],
+  "verified": true
+}

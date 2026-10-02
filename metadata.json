@@ -1,0 +1,8 @@
+{
+  "name": "Agentic AI Resume Screening & Job Role Prediction System",
+  "description": "Enterprise-grade agentic AI resume analyzer, ATS scoring engine, skill gap detector, job role predictor, and career enhancement platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

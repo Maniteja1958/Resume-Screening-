@@ -1,0 +1,6 @@
+{
+  "benchmark": "Job Postings Recommendation Corpus",
+  "count": 50000,
+  "classes": 42,
+  "indexed": true
+}

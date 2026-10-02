@@ -1,0 +1,2689 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_001",
+      "name": "Dr. Alex Rivera",
+      "email": "demo@resumescreen.ai",
+      "role": "user",
+      "createdAt": "2026-09-15T10:00:00.000Z"
+    },
+    {
+      "id": "usr_1790851142056_z3wp5",
+      "name": "Alice Tester",
+      "email": "alice@test.com",
+      "role": "user",
+      "passwordHash": "f0bcbe7470ccf6115c522a9fab4db92d86bae79b8a82d15179427ab154fd6d41",
+      "createdAt": "2026-10-01T10:39:02.056Z",
+      "settings": {
+        "userId": "usr_1790851142056_z3wp5",
+        "theme": "system",
+        "defaultWeights": {
+          "keyword": 0.3,
+          "semantic": 0.3,
+          "experience": 0.25,
+          "formatting": 0.15
+        },
+        "notificationsEnabled": true
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "id": "res_1790851216400_kjnhb",
+      "userId": "usr_1790851142056_z3wp5",
+      "fileName": "Alice_Tester_Senior_Frontend_v2.txt",
+      "fileSize": 877,
+      "fileType": "txt",
+      "version": 1,
+      "rawText": "Alice Tester\nEmail: alice@test.com | Phone: (555) 019-2834 | San Francisco, CA\nLinkedIn: linkedin.com/in/alicetester | GitHub: github.com/alicetester\n\nPROFESSIONAL SUMMARY\nSenior Frontend Engineer with 5+ years experience building highly responsive web applications using React, TypeScript, Responsive Design, Tailwind CSS, Next.js, and Redux.\n\nSKILLS\nReact, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Responsive Design, Next.js, Redux, Git, REST APIs, GraphQL, Jest, Web Performance\n\nWORK EXPERIENCE\nSenior Frontend Engineer | WebScale Labs | 2022 - Present\n- Architected enterprise React and TypeScript web applications with fluid responsive layouts across mobile, tablet, and desktop viewports.\n- Modernized legacy frontend architectures reducing latency by 45% and boosting conversion by 28%.\n\nEDUCATION\nBachelor of Science in Computer Science | UC Berkeley | 2020",
+      "profile": {
+        "name": "Alice_Tester_Senior_Frontend_v2",
+        "email": "alice@test.com",
+        "phone": "",
+        "location": "United States",
+        "linkedin": "https://linkedin.com/in/alicetester",
+        "github": "https://github.com/alicetester",
+        "portfolio": "test.com",
+        "summary": "Senior Frontend Engineer with 5+ years experience building highly responsive web applications using React, TypeScript, Responsive Design, Tailwind CSS, Next.js, and Redux.",
+        "skills": {
+          "technical": [
+            "Responsive Design",
+            "Next.js",
+            "Redux",
+            "Jest",
+            "Web Performance"
+          ],
+          "soft": [],
+          "tools": [
+            "Git"
+          ],
+          "frameworks": [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "REST APIs",
+            "GraphQL"
+          ],
+          "languages": [
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS"
+          ]
+        },
+        "education": [
+          {
+            "institution": "Accredited University",
+            "degree": "Bachelor",
+            "major": "Computer Science",
+            "year": "2020"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Senior Frontend Engineer",
+            "company": "WebScale Labs",
+            "duration": "2022 Present",
+            "responsibilities": [
+              "Architected enterprise React and TypeScript web applications with fluid responsive layouts across mobile, tablet, and desktop viewports.",
+              "Modernized legacy frontend architectures reducing latency by 45% and boosting conversion by 28%."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Analytics Platform",
+            "description": "Developed an interactive dashboard for telemetry streaming with responsive visual components.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect (Associate)"
+        ],
+        "achievements": [
+          "Dean's Honor List",
+          "Hackathon Finalist"
+        ],
+        "languages": [
+          "English (Professional)"
+        ]
+      },
+      "uploadedAt": "2026-10-01T10:40:16.400Z"
+    },
+    {
+      "id": "res_1790851167077_ed4ib",
+      "userId": "usr_1790851142056_z3wp5",
+      "fileName": "Alice_Tester_Frontend_Engineer.txt",
+      "fileSize": 682,
+      "fileType": "txt",
+      "version": 1,
+      "rawText": "Alice Tester\nEmail: alice@test.com | Phone: (555) 019-2834 | San Francisco, CA\nLinkedIn: linkedin.com/in/alicetester | GitHub: github.com/alicetester\n\nPROFESSIONAL SUMMARY\nFrontend Engineer with 4 years experience building responsive web apps in React, TypeScript, Tailwind CSS, and Next.js.\n\nSKILLS\nReact, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Next.js, Redux, Git, REST APIs, Jest\n\nWORK EXPERIENCE\nFrontend Engineer | WebScale Labs | 2022 - Present\n- Built high-performance React UI components reducing bundle size by 30%.\n- Integrated REST APIs with comprehensive unit test coverage using Jest.\n\nEDUCATION\nBachelor of Science in Computer Science | UC Berkeley | 2020",
+      "profile": {
+        "name": "Alice_Tester_Frontend_Engineer",
+        "email": "alice@test.com",
+        "phone": "",
+        "location": "United States",
+        "linkedin": "https://linkedin.com/in/alicetester",
+        "github": "https://github.com/alicetester",
+        "portfolio": "test.com",
+        "summary": "Frontend Engineer with 4 years experience building responsive web apps in React, TypeScript, Tailwind CSS, and Next.js.",
+        "skills": {
+          "technical": [
+            "Next.js",
+            "Redux",
+            "Jest"
+          ],
+          "soft": [],
+          "tools": [
+            "Git"
+          ],
+          "frameworks": [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "REST APIs"
+          ],
+          "languages": [
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS"
+          ]
+        },
+        "education": [
+          {
+            "institution": "Accredited University",
+            "degree": "Bachelor",
+            "major": "Computer Science",
+            "year": "2020"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Frontend Engineer",
+            "company": "WebScale Labs",
+            "duration": "2022 Present",
+            "responsibilities": [
+              "Built high-performance React UI components reducing bundle size by 30%.",
+              "Integrated REST APIs with comprehensive unit test coverage using Jest."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Analytics Platform",
+            "description": "Developed an interactive dashboard for telemetry streaming with responsive visual components.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect (Associate)"
+        ],
+        "achievements": [
+          "Dean's Honor List",
+          "Hackathon Finalist"
+        ],
+        "languages": [
+          "English (Professional)"
+        ]
+      },
+      "uploadedAt": "2026-10-01T10:39:27.077Z",
+      "lastAnalysisScore": 69
+    },
+    {
+      "id": "res_1790848616182_47cc1",
+      "userId": "usr_demo_001",
+      "fileName": "Maniteja_Reddy_Resume_v3.pdf",
+      "fileSize": 38231,
+      "fileType": "pdf",
+      "version": 1,
+      "rawText": "%PDF-1.4\n% \n1 0 obj\n<<\n/Title ()\n/Creator ( w k h t m l t o p d f 0 . 1 2 . 6)\n/Producer ( Q t 5 . 1 5 . 1 3)\n/CreationDate (D:20260707074008Z)\n>>\nendobj\n2 0 obj\n<<\n/Type /Catalog\n/Pages 3 0 R\n>>\nendobj\n4 0 obj\n<<\n/Type /ExtGState\n/SA true\n/SM 0.02\n/ca 1.0\n/CA 1.0\n/AIS false\n/SMask /None>>\nendobj\n5 0 obj\n[/Pattern /DeviceRGB]\nendobj\n10 0 obj\n<<\n/Type /Annot\n/Subtype /Link\n/Rect [101.250000 747.750000 237 756.750000 ]\n/Border [0 0 0]\n/A <<\n/Type /Action\n/S /URI\n/URI (https://www.linkedin.com/in/maniteja-chinthareddy/)\n>>\n>>\nendobj\n11 0 obj\n<<\n/Type /Annot\n/Subtype /Link\n/Rect [357 747.750000 438 756.750000 ]\n/Border [0 0 0]\n/A <<\n/Type /Action\n/S /URI\n/URI (https://github.com/maniteja22)\n>>\n>>\nendobj\n6 0 obj\n<<\n/Type /Page\n/Parent 3 0 R\n/Contents 12 0 R\n/Resources 14 0 R\n/Annots 15 0 R\n/MediaBox [0 0 612.000000 792.000000]\n>>\nendobj\n14 0 obj\n<<\n/ColorSpace <<\n/PCSp 5 0 R\n/CSp /DeviceRGB\n/CSpg /DeviceGray\n>>\n/ExtGState <<\n/GSa 4 0 R\n>>\n/Pattern <<\n>>\n/Font <<\n/F7 7 0 R\n/F8 8 0 R\n/F9 9 0 R\n>>\n/XObject <<\n>>\n>>\nendobj\n15 0 obj\n[ 10 0 R 11 0 R ]\nendobj\n12 0 obj\n<<\n/Length 13 0 R\n/Filter /FlateDecode\n>>\nstream\nx ]Ko Wh=@4\" 'P @ ) L . . L E M D W {? P };@ E o ~| \"o b _v n =kZ w ow > gY %|x| / q\\ ? o l S \\d / K ? z ]nL e ^, y _ r u k /w . ; ~ h2cJ w NK Maz 6' b uu IsZ Y q/ q/Vu { k | \\ ' *z ~M u ^ w?~l2[e w: w l { s. K v f qg u X F 8R \\s> cs i q +O T ;]>Nv w N \\[3 t - q6 ng y? 1 N x6 S Q|\n l ? -& ~ ^ ._ . kw T m w x [ p p ~5 \"\\i O 4 ~ + ta E #,*s /\\5 fF } w > p ' g 1 t ) ` \n 1 p 0 D I}\\W p q \n#% + v\\ e i + ROi\". i e \\0 1 N n [Z 6 {F Q #-\\ k a : h 9 < A ~ = 8 G l ? #pm X _ Z ] j 4 ` ,FF` & <R P >z ; y /r mL xs &[ < x P :;n r . k l / g m 9kDvJ/ \\ / yW- p? f A au ^,[[ >9 x lx C r> D P00 ;x TX 7| M E D j 4 k x a o A \n0u 6 ^| ap A S S O\" d uKc3A 1 : z \n0 8 |cd\n| 0 ` k| ! ; d `| ? DF ' ts^ 1 z + - JF 7 S eu 24 5< J w k B*Y Sk Vb;?r , S] * ) 5 : kY v c# 0 C 7 w . ( ! & + /U +, e ; g x0 a4 |A 6 H#K s =, [C @ U V ic p 5 ne_ ?\n {e ? & y3 ]_# ' Vm L1=b C R W=S! #t% k ` 2 & ` # (u \"_ + rmn `A>a, Z G` 5# 1 c/ lgd4t] -a U x36 } \n ! / P$g , k A %; N { y0^o NDCy [klv$ ZZo ;1 u 7A :5Cy Rq |L [ _ D B 0 {( Q T ( x G p'Q #s 2 mL pd k L{ I] O M] g % q 1# )J x sXul m O K m/Y Y 4 [ V 8- Z =] .t(L *+ & # V N x*T F ~ P D V>= U^ H PHo K(} ] 6 ] T L} jE Vsk '; k# & Kfu g#A m mT c8Q =E 5 \" M$-L D 4 j ^ (# r jC Z ;C;; % :& w ;xm 1z; % 7^ F .3 . # / k5 w p @ [ R > N $ F | ~ W q _ g m 6Ax5 g\\k; g w ': | w , r1 N !* C f ~ m * uQmg R c sO ! 3 ; (E o I= 9&f Q x G ; G W` U S V}H U% ss <V G ~ ER(*z< V P >& P ~? Y [ tq&<V U p j p k ^ mF P O@ F ~Wm V+l K A6 Jj uh K %@ bh[L]p P5\\ 8 4 U f T .Y F| =d :W J ``e B,a=E].Y f 5 M D ^ : d z\\ L 9 [ ?F I e L$ jc 'd ( q Yw z1> :#) E w w $q+Q ^2 g[6N #~ ' J3 9&lN L -K <\" ] = a G ` a 7 ) 4_7 -[ QIh8 ke $J$ w 5 : H1^+ 6n { P2p R q -\\\n v o=L s ma n b Y [ / Jj Ej `K eA *' cX m C M ('a @]} S R / ? HL C P p A E\nCt 9 TJI ` A d 2u u{ >G] / H\"n . , k ;P J J X v {w vL ; 6 \\ @ O`i = P r DvF (a 4\" D l1 t ~ * o#VNp e 1 %FB C a X T { 4U V S yV ! * h G ;D ! Bk / [W Vi(d A v s . c@ eu | ~PP\\ 0 V Ei 0 ,0c + w : S [ U- g\\ [) Y ' \n; zm&= ; p 4 %?f\"]( BD 6 - V $ e t ? > %`*Y r L KL;7 Jg N]cLH n Z K a s Qe Fb? S 9 [ c u v?\" TT > W - L = ,SWq% )_s : \n6^H K v 8 o) V W S V ; @! )c k Ncg\n b ,4 k \n ! o . * 3E p B \n 0 a b ( fJh ` ! ~W {F T \n . *! !_ 6 | + ` ` w /~ v 0 ( S s (W & : s [ [ ?u _ *]Q %3 u : ; \\ _ 1< f/U~ 0 { hW [g `3 w]H0 \n n D o .4 >d 1A \n\"V G@2 r X FE 2 n{ U 1k2+ M# w S u 6 ; (X b ' w -KUo @ w w $ P # Yv CH B! $$ A ` 1W . :& v ]P / n A X f fa-<=7 0 `- ] b- s ?f y5{ s aka 4 | E w k; \nc` mNX~ B U0 us* y lh (k ^ b qO o3 => 5>S z s U n \"T &8 #l L - K Y j q 2 | Z ) } ` P Jhm^ UM|IT | t B ` / !]_{ {% C \\ : ~ y/u B '\"d ~ X y\" k L~<!S R y\" gD W \n^ | z + A ` lS (' \\* % t; 2 (< 99 5ta ) P If (< R l | 3 jN P = 2FOr OrS ' <<7 0 In\\ I s ?f y5{ s ]OrS :IB[ 1! Dm% [ [ @ + %* c T]r \\ D!28 X ]S M %6 aK1 +e A #% aD 0 \n~D 3 x a #> * L /F>`L [ ~B V1 e M q x 0z ~ &nQ5 / L . C) T7 A I%^b }~ c # : 7 ^ #`/ 0 \" FW T C `. *: F Pr ;LB X g u0 H pMS{ E / v 94 qznf/ a k * j R z 3 R5 b ! a}T a Q k & uc o q g3Q \" ! SQ ec a D R zVx? [wn r+ \nc z S * r S 2 f 2 <vL Cl JU] bj~ u W D2 ` u X 1 f ?C & @ 2 ]*! 9 1 mO/ T+v 3; ^2 \\ ? ;b t j R z v /l 5 j k! >}q %T 0L _ } \" P # ^J 0e@ / z | m , w [c +\n Z &RF g%s L; & o |y y U .$ F J L \" =, o ! PG , \n +d =I>a x V w %*q0 KR J X EL Qj g BF T c hx s 1 < ? tB! E =62 4 qM`~ _ EX % ^ ^ tC ^2 \\ sk^ s T <: 9 [W ( % A |00`,^ z h %* _ I . !pT bTv 4 czz (N o ; FLGU &P @C\"X3 6 D ;QGM7 ] u x YS :3 x 3 oxnf/ a A ? Z x j R z *^g f gL x\"1 \n n2 B*o n U 4 2 M O a 1 Fe VmN y l R g\" r Rb\\Pb F% - 7*1n U% J [*1nTb L qo\\ qA n km&B jm t p 2 D CY S Ru Nu L N\\ k O < 7 = h [ 2 QX Q \"A ?ks 5 & J e 6 $: , p B p { 2 C4gc T / BQ, p TXpU` a 9 0> 0 g r{t=^T# ' X Qd K1U XL{@ V j @?= \\ X + $ m ~ | th % D > x 3w K X a -. Cx & @ } D Mo !z nz + %0S XC bX;UB &y]!y= I^ n2 /y# gh= >e \n U ( q T EW H t0 MdZ 1 w y o J H 9V v - 7* d Z ' x$ Eu B X \nw F ; i ` m U \n&9! 4 RE O Cq +|>pm lx x6 8 S & S 1 s o! E wK t D' ,>9 S ;xm 6\n W s :p? = @ ,]X3p G/ F 7/}| {*`\" o P a 9U h/ 5 7L !u f 4 j f9 T + 5 gd b { \" ! - \nl\\h \" !a , F. 5A QT A@ 5gi o ^ ': , rx\" ~ > U \nendstream\nendobj\n13 0 obj\n6455\nendobj\n16 0 obj\n<< /Type /FontDescriptor\n/FontName /QQAAAA+DejaVuSerif-Italic\n/Flags 4 \n/FontBBox [-839.355468 -346.679687 1662.59765 1109.37500 ]\n/ItalicAngle 0 \n/Ascent 928.222656 \n/Descent -235.839843 \n/CapHeight 928.222656 \n/StemV 43.9453125 \n/FontFile2 17 0 R\n/CIDSet 20 0 R\n>>\nendobj\n17 0 obj\n<<\n/Length1 14184 \n/Length 21 0 R\n/Filter /FlateDecode\n>>\nstream\nx [ xT ?g 0 2 1 d I&a2I Br3sg l B V -* $ mq -u Z V}j- < V { !7 $ k ^ { O Bi V$E x r7|;] A O` { 2 n u8g RU Z J` y S . lx4 f o [B 5 3 x I @H= l Q9^@ & i @H PH R 5 b . P @ 1 \n #J?> #gN H S h M2 S .E s/ z B$ ? O t4 ! ^ / a K3 f* j|3^| j T k ( {[u , } 9s6 < l e i r {W wj z >q -c6k w h B <\"K R q smzqQ Y ~ X_ [ / / W I z Z R _U/ 7 uuCE o/ / ^~ k s ^Y Z \n@ , R :?oY P) ey B r ? Y p Z = 9 ; ! iz +W f A O [ w O 6 J V f -+ | / v | e ' w 7 U 6 ex k { , `<sv u T Db X{WFWT L +Th! rDc` P r} < 7 +l 5 vtj\" \n=v lc x] jucw cO < +: > f ) W { V ' s Q^ l D\" \" { # us f ^5x m;k7I {~ _y}K v| 8^ ^ ? n > 8 m l !fh P< * \" & Y* . e y v f U Em ?~ j ]` ~ i [ SS , >b { R R 2 \ni ` |q &T )A V N R o 6#;0d i\"' u _ P/] a k h% a 5Q I 4 W 1 HOz^ W (FZ S T e\"R q T - T 4 {z sK { SY ^ { &s &zB i o m W C # 5u <X , x4.%h qE \n 4 @ 4 >U 8 { p [ l KF \\ SR ? m\\ n = N ( lH? R 2 <q | 8O g :X . ? i8mFC 96 } <U |?^ z J / * a\" l O xE WZ 6 m 8TTR\"+ 9 nc 1 ~ 2 L# ? / 8[ 7 @} p ] < `6+^ yU ?} UT| ' M G t n z > gv %/ ` 7 m v P I g j 1 W y } | W(? 6W d `cZaA nn tJ~ x :b < ME PX j L I. Jr s 4 rqJ. Bs!P| T CR!hb / x @j ,q A 0 *j L! )$ #U > W usgG^7n}i ^ m) ? x - yx ^ 3 Z \\ l? - i//9 T_ '$ D { % F^ Ze AV j g1 %; o V .~r s k j H +qH\n {,# qh z J~ { B B A 7 $ B ` * | P P ?kPr ` 4 w k ?7 8 &3! te -DGp | G P x1 + N Z /{ x oX U- z ;o k* i / $ / Y>]. 7 d U yg %% hrW7 ] % b + i<H2~ ?/ BM >Y 1 <} x>i t \"Y6 ' Q. W . ? *VQ P/ $?e I6 Ef Wy 5 ;; \n M f w ?p u / n [; d H < / S x \n w- ~ ` jJ }3 A 4 tb M 7 ]= W / y . gg #g S% ux 6 K? ~Kz q ^ 0 E:[ %q) \" 8 ~ Y _xL% / ^y W ^ ] $ ` i$;L R3 # e ! \nf> *+ ], I `2 W < ] U { QL Z9 tt x O AL V %B DJ ^L]R hM K Vo ->| 5 u v[GIHY , ; HUH j w q ; ? i .p ; e </ rs ^ B _ z J u2S L Y15 dr\" p[ , ? r A K Y O [3w^ v + , V { c~ o 7 6+ S Z- 9C RI Fp{bG [< 7 ] wo_c >| c \\ O [ x p b g| x * \\ 2KS, o 8$ [7 {> 9N W x ;*B , s: \\ j | 3 mX8 { & k 3 Z uN L5 D [ 3 > Oj y ; h o> Y' ^ } ~ @ O 2 $ 5J H 3e# } *s _\" C vVlR w> 1< ~ x[ ;? w z X v 2F ` R / < \"3E l Q < \\} =;6 7 q _ % k w lR W 6 ~ g { r !6 k . m s RA%d@ rT/ mjT IQ O w&< ay 1 Y0 t ug f <F 1'/ } @}cNN4 H Q ^ G [ 7 e wb m N f f u e u x y_ { _ [q] O _ ^- Y | t' l ` D] E +o b Y MY' J AC} ? '{ R / L' L > ,, 9x . X ? F i Y N * i5~ . P <; 'U G \" Wv g $R x uM P9KEt& 8 * on DWRR Q pldt0 g~ ` , f Q z EUxX r @ h #iD x %k T E o Oa L ] cB Y r X0 = T ? ` 8 s 6 = ~ \n$ L\"+ \nj [$#o <Krm / ? U~ M ;( C`% ) Xcx o% H * = w s Ra a ^ W p ^ ? h} tY 2u d [ , :H %K ;5,| ;W g _ + ) pF S / G_H[O) do\" Y v #y'be . #; ) 6 ; K +_ z !T% v Ud g (yz }0 m !y m B [' 5~ 5 ^ P B: A 0 d \n Y% ?-{ u( Q [ # ,V .(y $ LR+ K K F E / f ze eg . = I!Q + U R V + w)?HkM )mw +i NqO w s j oH 9xEb T ct-^. %H ; e r 8V 8NC 5 4_rH _7eg ' x**[ Gq< ] T `l $ N 8 q,Ey c c9 8V <* FR& A %^q|]f q< * Bq r ##\n Da A.x B ) { u)* O) ` jaO E F b ia _ # A qp f u tT #/P D1 a ,Pq } 7 { 1p> |Yz 1 {\\ (S`/d 2} L ' 9 e 1 | 0V. 7s ]z e;c \\\\ a 0 X cg A? S=< 7 \\ 33( B\"s _ = q Ep)`^ p G< TW \" J ( + \\ [GE (X Q 5 b 8D A h4 D7 t `,l 8 ] \"A w >| { 9 ( D x _ O \"g 2, Re < p + # , ?E . SjI h =N E W:( ' % MK \nR |H # C FE { W E 4 T q .; H=N d < / P z P p | ^ T N ' | $dLr 9 X pLbBVB .1*gR J} F 8 c ( n \"2~ Q ~x W\n ( 3n d F k & , y x h{DT'Z Z %<:: P< C< 4 D Kxh vJO >1K -d Tb ( r 6 43$m \\ ?*FCd x $ K 3+Z / & !dr * k2 | [DA k n RW;K0 L hD AR # ^ _ W \\\\# + m Z8% { O < 6 W d\" \\IF hw = JV ' D U 7 T+ = B] $ | W]M < !n p s 8 #: 4 r d z i g 5\" Q z R 'wct D * \\ G | $, H1D= ~] N ? /2 k ' HT R D \" V P Vz k sV :X v1 ; Fc V Ai 4 Kh B s2k E N+ p5 # t F ~ 8e C Y Im :Q*3 fV ( 5 m3 G R ^ @1\" M#H Lgd m i : Z p_ D% ,!Hd k &; @. p ; TC O =O 6 UA V d w&8 S P m b 1 8 4P\n- ? ( C- GP$x6'vZS b x (' E M # g H5 + ? F [ O4 k : & Z B Oj!X S0KZ \"Z u+ Q h i w xX &$ o< I h yO ` fQ LP y' +wj JS OmJ M , @ ' K \n Y Y g J + , 7 } [x6J ~ O z H + G0 .< +h OL % K& -r 4 V &?! h qT L ~1q/Y q Sqx S A\\ ;$>Sy( t ( | O z hr J0p H -. I#< / {N 4 ) p : ' wra (' ] /= k L h up~6 qa 'B { n7 + C 8 < .N D dB\\8 }QP p ; MvF ^ l' n q h\n a# ?@ s ( % 8=> P 3: k\n $a. :bv qx@1O_, Q & H2 ( % E`?QG 9 5 o M %< a& ` D dC e4 /?@ A& 2 X G \\ (d Gdyz n } @ \"*@ ( !\" c\"n D @ prv E f ! # ~v 8 \\ b>6L 9 b | !w \" H I 8 K!0 x..K \" 2 * 9 . d !` C aG $bQCx o0 \n X Y > P ` (D B bl #7 $ ( f#@ L %= Q` 4 e#A lj:b( b X ; V @D $B5 V io u & Y[; u :Fch F t m 6 vX Z 1X 2MfK 1 i V+cnik6 ` l16w - L- fs Dm H lj' ZLVc#L f m 7 , f= 50m l h6X k[k h Y Ro . ( mk F `Q :S % V n @ 1u f lk YM `im! uX 6s 5 * f bl6 [ L `jO2! Du p & jh 2 m& G d = L 5 Z M ;` Y A M (` T2 %tl V[B .s I v\"B % D \" KlD . EN \n @ q ^ . ; [H 4 \n SK VH \\a ! h 2\\2 HI n FB ul FH* d2 H 2 u/ J | X$! P G ($ j s X b 2Y 0 A l | : & J 8 a : ] Q E ;@ ` c - ]p?| i t h & x = H [t!w X ? # ? ^Z~\nendstream\nendobj\n21 0 obj\n7604\nendobj\n18 0 obj\n<< /Type /Font\n/Subtype /CIDFontType2\n/BaseFont /DejaVuSerif-Italic\n/CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >>\n/FontDescriptor 16 0 R\n/CIDToGIDMap /Identity\n/W [0 [600 735 318 667 592 560 644 318 318 765 602 948 640 644 402 478 685 320 644 596 640 730 640 337 799 673 722 337 636 636 636 636 636 500 395 636 636 950 401 636 1024 565 753 875 606 838 ]\n]\n>>\nendobj\n19 0 obj\n<< /Length 679 >>\nstream\n/CIDInit /ProcSet findresource begin\n12 dict begin\nbegincmap\n/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def\n/CMapName /Adobe-Identity-UCS def\n/CMapType 2 def\n1 begincodespacerange\n<0000> <FFFF>\nendcodespacerange\n2 beginbfrange\n<0000> <0000> <0000>\n<0001> <002D> [<0042> <002E> <0054> <0065> <0063> <0068> <002C> <0009> <0043> <006F> <006D> <0070> <0075> <0074> <0072> <0053> <0069> <006E> <0061> <0064> <0045> <0067> <003B> <0047> <0050> <0041> <003A> <0037> <0039> <0032> <0030> <0033> <2013> <0049> <0035> <0036> <0025> <004A> <0031> <004D> <0079> <0052> <004E> <006B> <002B> ]\nendbfrange\nendcmap\nCMapName currentdict /CMap defineresource pop\nend\nend\n\nendstream\nendobj\n9 0 obj\n<< /Type /Font\n/Subtype /Type0\n/BaseFont /DejaVuSerif-Italic\n/Encoding /Identity-H\n/DescendantFonts [18 0 R]\n/ToUnicode 19 0 R>>\nendobj\n20 0 obj\n<<\n/Length 6\n>>\nstream\n \nendstream\nendobj\n22 0 obj\n<< /Type /FontDescriptor\n/FontName /QWAAAA+DejaVuSerif-Bold\n/Flags 4 \n/FontBBox [-835.937500 -389.160156 1854.00390 1145.01953 ]\n/ItalicAngle 0 \n/Ascent 938.964843 \n/Descent -235.839843 \n/CapHeight 938.964843 \n/StemV 43.9453125 \n/FontFile2 23 0 R\n/CIDSet 26 0 R\n>>\nendobj\n23 0 obj\n<<\n/Length1 14992 \n/Length 27 0 R\n/Filter /FlateDecode\n>>\nstream\nx { \\T Z{ _ 1 8(G 3 Ae`6 k B 5 gl Mrl m IS M V 6 Ob i \\ D k^Hl~= ^{ o} om \" JD ! B B \n3O %v~ 4 l j b L$} { v U x ] } Ce O n _ T 26! ^C* TE g W e NT * S @ Q3 F x : v T) L !t e q S T + JI H H T b i_ W E 5 L N 8cJ u\n >EW [ S}V 3 o\\ + mO=utsn q Z z ; wV C _{ # GG b y @ \" %4 , S e \\ \\ 4g& Ch8 iQy] % L < = 8* X a * ' k RK@ a 0 X3< v K G ; cJ H9 Q <&A$ a a= )u gD o> $ U \" b \"CQ ? \n }+dxzS /+ ? D / . \\ WJ _ > <P + ( ^ a . )i ) Y 3R M e \n+V a n [ w& 4Im\"~} l * . g f ;V d>W z G<I L> U z I\"78DXIG.K B# B .KG E I ! ] hK L 2+>}J d0 ; aN O_ t o _ t ;U B vV 8n f ? * 3 - ] Qo 8M \" G ) S 8 ~ C 0$ Q +NQ * w L 5* OEq c E ]g (f cq 7 * h | J y | K Z> 9] 9] .9 @~ ; ;] w WF :7 n A *] ? V f 6?hk u / ]X g O? ?o . )\\ ) W T ba \"] > O - F dc' e& ss 77 F| K W:& W \n I =^< n w F p 0 e ! \nZ: N [ tj N x} 4 %, Gp-^ # O ? wc 0>w^ + =w X X p Z [ Mc Y$ Tr[ ? b k > 6 ZX ET u E , @l +s L QBPi B I ~I]f H n= og - (sG n yn }f b ` > EY <r BL t = 9s +* /BU ) 5Y 7_Y$ 8o ;~ ] + $ - 9 Yha \" ZT UL p1uT _ nl W - ]R | m E u c/ Y / < o ] Xg \\X x1 KZ r ^ ) + \" &Q3+S HF ` Xy Q n 3 0 =CE^m c[1 u_]m BJX 8 ,P 8 )yr ,* uo 9s z <g yP \n hn - s ]V R \n X V 3 t% f] z %hSYW U Kp N/ BW &B / 4 A hm Q 1 *_ & < Hc D. z H8Eqn ^ l{ * v {1> % d f % /_ | ' g G + @ T; h7C .]- Kf 8 >n\\ wg] ME f e z 7 H vx ee9 = r & d^ * ef / f L 4i zHV d &#-# . _ < q NO+- gq{ L WL& 7^! \" z xh 9Z 7T $q ! (/C )t u a yaEe tYU W>47w dia 6 #; Oz ) <; , Po '4 U @ d4 D I T!HTxca K cs * ? c U T ' ` 2N \"8 ig@ ne Jj|{A~ ;o> DUV I3T = ; } gf ni - WILgH/r .# f bR$2 @J oX ] > B . ( n m d \" x U y s ? X o < Do ! s s.\\ _ C J e n A B y, v!/ , JtX \"s - 4 Y3+ ` z H/ wZ xBR xU \" YI W( %Q$ G aJ vl A // _ qA~ b| 0 >| vr Q dk Aw @poK_ G RF k , _' c > q k G A \n6e ', dnl fXPn ;+} o o /yy 2( P D\\ k @j`Z < ] ? t55 , ` #\\ wvK P |N\n] 2 U4 ]\n Y OXy K I$ 6z )> #I ch %h r { L [ IW 7K O t%%:h y M / E4T HgKj bZ>$%So C ' = ~| 9 h\\ [w Z 0^ ; ! ' OI ] S Y l X R `t pC= _ T > W ;4NH. o 7 n G w: ' D / i t |j }?! jH 2 lS%[ n . lu ST6)P E } R B # ~ M 'n G _Z AXZ 2 4+3 | B _ x wo8fZa 0g.~l { , - ^ _ o ,Y ' I kV w z / u \\ 8 Le Tv># 0P3X (I ] : 58 e| e _ H r a \" 1 A6kf v 9 { t X W N c F XH M x > mXE o_167 y k 7? # g /\" ' nY J!: t9 & f B F v \" * G Q P z E K 14 'H ; Z W 2 4 l !q WT > 4 ~ '{ Y i2e \" = y IyC | K<) P_K : cP * O A < ? K\" / w O j1 5m w ~i ]on| FD \" o \" P ]xm+> C P [gwJ+ >nh ; A mR Db ' %< $S ; d -V & g GC n ^ w }/ . < R\\% { t ^ m L X fC O W >t x u D_U g o 3 =q D \\U P =\" n .o . &#YUL G F=U: p) &*O ! K F ) c ~9Y Eh1 % x > = Q qy o } % ICg \" 1 E P S { q ~M .& ?d o u / nqt + ?25 %jj y E a ? 6 /? ]x &=(} Y [ [. x \\ u H p Rq w } b +x~ 6@U4 : 7 I > ; G$ x _? F^ C T \" # &a 8 _R K1 J P z jJ P[B Z p` 8jSO ' M + Iqvt T FU Q \" o R JU : \n R JGV Z x - | % u ZU _De k 6 zM : % 82z M CU T .F ) T p 6 ( $ U } > p ' (g r? b b b r R < j Z Q L@ s >JlN H|3iJRM ? .'} 4 z 3 ' & R > G ? zt 1 ^ R Ul @ 6V %6V X &s 8 %s -6 /iw o x\"Z4 d 5> / X g t J'c b 9 X 2q +a $ l F< 3 ' Ln& O@K93 ` 1 T> Q\" * a' : t B >E0j \n M G !7 y > Fz ^ z' U 5 T E K aL > i N a 3 ^ wv9 | E| ; _ ]. L Y =_S)l 5 K 6 ;= ^ Z N rP r (a z K U .\" Z 8 0 H < :o,k 9o<}:) 9 A > ^ 6 G4 A RT ; x Z/\\ I _ G0 [ZP` { ^ w W h H wc <# (~ 0 q% 1 (V sM ?D Q <}n pS v ! ^ (?7 E A .* CQi |: S!\"M 6- K5 > A /p ;)*d[: < T U E q s 2 0 g $ F k kl > J7 O xND RW A Db 'd ^ K jc ) i > r Z K Y/ \" b AkB y M b-\n R P 2v x c ~ . 2o' j| mu s cP $ T P h D ^ '6 E ' d8B T j d . ie l K+C4 ( + , q \\ z, 6 H cM \\ m A< ^ \" fc y ^k O n }N Ft ' cb E .6 .l jJ F k l SCm =2v 2 ' wm q 8 h t : = U D >j g_ =v 1h s v > N k/ p$6 S 8 P? e > .f U 3 A+=O @ x * y \\l 6 g . Q pEz ?[ G ],b X_nU; ;# A * ;+j ~ L a ~ O f+i\\ y I c=j d f % [` = [ & E j* , Ly l-\\ F ' jD QY VYi uD YS+ G ke z m Z )26E b g 4 wd @g S emM *x. b 5 k & jA$Y ZH tV E \\ /e= \" - Z ~+ Xil ? 7 j . Fj J( ?k# TP + $= e\\K 3 : } ZJm ? h V0 <e n Dv H50L 3 B V , } nE$ ew{ R i - /T c 7 , F f Q WXv| +) j 7 >_ v `_ ` n c + ? 1 6 p5 u Y g n +|J { h > - b _; ^0 J L . \" re z F \"-0 7 C =! ~/K L } ?2 T s {1 3 z gQ o c E C b4 o L BU e y I F s .o | + h 9G j G c$;AE> {; r h o< ! y ] w xX - 6 x ` R:@iB t 9! : ;8I % s ;z 'h }: . . - ` <s. / ^{o @ ` 7(P h!J ^; tx{ z J` zb w j C #CKd x |@ 8 Te M > s ^@ @ . { W z 7 A2# $ ux=v' # T #[ w @- QD B , / p v y z ~ E i A R O 6 w{ N' vj : _6? pvy ]. E ` + J g fs 0 *z\\\" : d $ d ~{ b& ~ g n i ^ 1b QL B 6 R ~ <&0 [ w Q E n {=v pf|] - Wd ^ l : ( \" %L ut 0 E 7R? : DA W'Q W 7 x o0 7 + | Z h o @a -|} 7 + J-oX `6X,| 7 5 0g4U 6V M |9 3 [ Zc \nL t)ce4X : n Z E W & \n j h FsC <* h 2 C F -fcu U 0 f} No^ % f 74 }m-_n Z f T M z }y A L | N_m D 2fN dA d0 k Pa$ l RJ =x [Qo V5 E@@j T T3j %| fkD f f Pe uI<a I gb Td53 ] .C l #- r R E \\ Ew E l ZV~I t n$ _ F ` /)&} t ^ l. \"TP/m.X P w > 3 l k 2V N ( | j tz nf:u_Gpi . { ] o }\\>}7 | 7 >g ? 3 Y \nendstream\nendobj\n27 0 obj\n7921\nendobj\n24 0 obj\n<< /Type /Font\n/Subtype /CIDFontType2\n/BaseFont /DejaVuSerif-Bold\n/CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >>\n/FontDescriptor 22 0 R\n/CIDToGIDMap /Identity\n/W [0 [600 796 945 468 914 744 776 348 831 762 867 714 1107 473 722 872 871 727 727 527 648 699 380 581 636 563 462 581 699 699 348 854 362 380 667 727 609 869 703 369 845 693 903 1123 699 1058 430 776 752 596 1000 776 696 500 696 696 696 568 710 ]\n]\n>>\nendobj\n25 0 obj\n<< /Length 770 >>\nstream\n/CIDInit /ProcSet findresource begin\n12 dict begin\nbegincmap\n/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def\n/CMapName /Adobe-Identity-UCS def\n/CMapType 2 def\n1 begincodespacerange\n<0000> <FFFF>\nendcodespacerange\n2 beginbfrange\n<0000> <0000> <0000>\n<0001> <003A> [<0043> <0048> <0049> <004E> <0054> <0041> <0009> <0052> <0045> <0044> <0059> <004D> <004A> <0053> <0055> <004F> <006E> <0075> <0072> <0061> <0067> <0069> <0076> <0065> <0073> <0074> <0079> <0064> <0062> <002C> <0047> <006A> <006C> <006F> <0068> <0063> <004B> <004C> <003A> <0042> <006B> <0026> <0057> <0070> <006D> <0066> <0058> <0050> <0078> <2014> <0056> <0032> <2013> <0031> <0030> <0036> <007A> <0046> ]\nendbfrange\nendcmap\nCMapName currentdict /CMap defineresource pop\nend\nend\n\nendstream\nendobj\n7 0 obj\n<< /Type /Font\n/Subtype /Type0\n/BaseFont /DejaVuSerif-Bold\n/Encoding /Identity-H\n/DescendantFonts [24 0 R]\n/ToUnicode 25 0 R>>\nendobj\n26 0 obj\n<<\n/Length 8\n>>\nstream\n \nendstream\nendobj\n28 0 obj\n<< /Type /FontDescriptor\n/FontName /QCBAAA+DejaVuSerif\n/Flags 4 \n/FontBBox [-769.531250 -346.679687 2105.46875 1109.37500 ]\n/ItalicAngle 0 \n/Ascent 928.222656 \n/Descent -235.839843 \n/CapHeight 928.222656 \n/StemV 43.9453125 \n/FontFile2 29 0 R\n/CIDSet 32 0 R\n>>\nendobj\n29 0 obj\n<<\n/Length1 16016 \n/Length 33 0 R\n/Filter /FlateDecode\n>>\nstream\nx { |SU 97KKA B) mk[* - A &m %)IZ([I fi &) YJ ? 2 V E uf 3 \". S ). < 4 w \n y }^jr = - a P\"Z $ y ; l omcS - ?Ch Tm!B7M v <\" vwpe f QM^ U c x m^ Ce Y u 4 ~$CHV n # Kdr H?G A $)\" P McE ;8( < g S ]j NNK LKN I @@r / / < a 3 4 4 {(t t 9 r Y.; F b rF )c Y #; iyS2 s 2 9 al 5O HO N T * cS & gge ' i f [ V B e L% r p: t li ~ S O R 2&c ) c '$ 0 } .~u' Y u ; [ G\\. _ N / Z }< I [0V9CY O g @ K |1 m J ` y Y WyY e # x ;; / x N ] < A q(G \\ A!0TR v B \\6 !-8 P L ' ;qg v Ay i+ {J 1./ : w] |+ f ? 5sVP < F H9= 2g) eWN I f f pC 3 N H % Z X) -[6_ rV RRv U WUl_QVr 7 w> q y pt h\"X R . \" \" * 1 mU U ,'<* _}y_7 | YK X ;w ,', NJ @|+ $ ?q+ ^ 2H3 xfO~ } j 14 u\\ Y r , o\n '4 K 1u 8 /;!. \" { g07 ] #; o h n :4 0:9 ) 3\nE %y vA$ [ % z # cF[ ;O5 ~ O ; | T % e @Ez _ x \"< |v % ; $[ n *HNKIK 5 } / ,- VR \" K.\\ ? \n- H K5 gY1 L $K g DlQ 1 i r! + S/W +& %: . 8yT L ;g E , O m 1 GL p> ! 0K C ;UL B q , |$ 7 M4 S ] L _am ]S Ks 6 3 8! ~~ t 4 ) 2 h < @ B h x c q S ' | % t B . eS \" '& z[s - a O ( 3 _ N \"# )2 T t D D V ' d +,H I\nEw }d /= txi v O /K x ]G - y M] ]O< o %D UO < ]Y D/ %e v i %cv d NuvL @fg ^ \\i 1Y ^| _ 4 sgVfU < .j_ ]} c @ a W u <F\nM T y@E6 I 9F >\n +* x 3 W} X | duq U C ; =? = Eh [ ^% VB p6 T :H FL p \n G } >? } x 4{ k L z z DY _ ;| l1 HLE ) F \\60 b ' o xggGG k ! ( n \\^VV y kw ] r U+ f @ n : $ p\nH I Q X sz _n q ~ m O> 8 [n > N ^7~} kkpI)p< L \\ % ? * 2SIt m 2N 9M Y yZ\\ %} W }a k 8 au T < / _ U gKUEe H d .| i#~ o} \\ f U 8 Z f ~ p? tI LR9p q & M .X-A] .#!kAg %Z dz 3!a^(! @ ,!( %D h4 R C izr 2 n . ~ :;0 v [ n JVl E; . P i ; : ~ | P *<d? kC d t- 2o V cx xo h C5 Q P J % A$ S d 6 C ]% c#6 j ~ ; ` ~+ w ! $ N 1B 0 \"Y* \nJ5 ]n_s q GjkL ... ^+; n 0 7 \n{ x\"[ \\ ] 7 $!W 4, B A u: % 9 `| o~ \\ Z ;e E U ? 9e O9 s:d , I . 0@ J e Nii < v 3 3-]jq -- 2e -o V [ Q 6m A m ,<) mJ^I wG : t;? > /I [ L ' :C ;{ '8e S # = c@kx { _ y0Yi 94\" x 2 : h,9 G} Y ? ?9x s P +tr \\ It v*) L(_ O& o}S] d} Ed5 I @ [\" Q =x < S6| & i _^ ?X t 8 J \\ > P) Z 1i1 n# R n* r } 9bK } I 1 V Z B x ; S L Mo g <| G E + ] C % G > ) ) | > oo G z1t 3Lc\" .z )j 6 n ?x^ 9*K<- d x z Nss L| uoz 9 >wS> i _ }G g q B o c s T E N z ! , 6 O I N @ q ]1M G d WB x G} I ] ) w Q @ H{ / R x? ? (' H1KlI^ H v2 B1 fL 9 \\P+o7 |: +p ]8 2 < c> k M9 BGiB j uYe% m hd </ r ZI 5 < J Sm S 26i & #N 0\" @ d FP G3B # HM o \nG :}I ww` q U )h f X 7 r u ~\\ v ' gz 4 9 ?q S P e8 m fW N -dc \\ 1 Q; 8 F GZ n$yU* !V)) 8 3 x n h 2 5 r _ V O k ' N A T V % GI Q 9 1 \"E\nu ~ +O / Y <[[ 7 Gcg u <j0 o- V a >0 KK6 f >s S ( T R @ m 7 k k +) S &+p d ; \\ q E S w :'k Q| ` `8 % Zw ` c E UF% v% , h /[ t ? }& x, R * l8 F U O x Q q 8 O ~} > u t Ub s 6 C? hX z]u 8 9 P eE H ' *ft ^ . m 8 ?^ ! / Q Q7 h! B a hL: !1)Y ( 4CW x .K\\TN 6 D oWOd O _ qf dP f@* h[ l A ] ? kl _{ \\ { WO Z % # X % u+ s Ls a % x_v;d W. = L , C_ 2 sGg : &o H ]8V R w @ x x ^r W # _ + \"y X Z.^ * DN~Iw8 O +4 H] 1 A kb ' a i E X `\" _ g go\\ ?[ c ! Vm [ JJ _ O =y 7 k\\ ; G ? ' * w m y|l?~vk 2 yy . v S 1 z 2 ' ' A 4 % V T # H G7 \n d / q m -_ {p ~A _[V_bo< \"+ . Lrr: { > p o T '$ O u $ \\ | ( Z dcz l Q -} d a # 3G ; l % o E i n # N 6 L T -? u | C , do ( A s( h K ~ , g Q J \n 5' d NX &LD d ! $ ^I ~ k < y I K dD [ + yf X $#%s$A G:^ , # X6N6U Z _>J^*_/? N $ Kx& & KJJZ 1 w | Q7b F 9 Cj wC? |=zU c4 X >q, C X >q,G yq x8 u Z _ O /q<\n 8NFRv8p ap G 1F 0+ K k X ^q,Gc 8 p4 bV } lq<\n 8NF ,F | 5\";\n m Y4 _ ` `M )`V < > F* , aZ z =+ \n+ ? @ \n 5 F 1 `M u : { > v w4 $K ;-? mhc @ \nV & @V X +8kn s k[X i kihrXX mvx I T 9M wE A - z] x /\\VK Zd ^- 8 vZn 2 F \nn\n . y=` QW P YE + F. (=?uc. ` YyyV %7 m [8 z8x\\ #A a ] 7 @ ^ \nk @ 3 ' a + - G [; C \"K ) . N Y5 p h 3N r PTZ) } E ry ' T . a A*E|\\ a \" 'R S $q0 t 9 J * E Z nJ%H c Q I H ! Q z K 3* j Xk A 4 9( X d- ` V ; A 2n: Q ? - 3 h ` ' PD y x h;D { Z -'H :8 uQ Z = C8 l4 zD V Kx( X +, & Mb { By[ Q Y4:M .3P Al. Z L A1 qk Xl R \"y; 5 B&7_ ^Z X nz _ h u ,j g k %6i hD ARbSk cQ _ ` b Y _ k4 : ] P3E 0 N 9 03 $ $ j2*D 7 } kdu 8* ; nx& Af8n V N w\\ Z VV ? *u1= d} M !u 7F 1 X O W VR;{ P 4 r d v i g 5 QD 4^ * W * c X 1 3\\ Q ( A4Ez # \" X? U #A . \" *C G tpG @?i 0 B?g ' p Y5 >! i4. 1 G5 @ v , 'w ^ ^ ZHyh 4P U0[ W ( ' RD Q v h }D AR G K U OU@[K Rd Y\"J 6\" b V :# ,H : sA @ Q1\\ 7YQ\nr I\\ } t? ZAg 8J%W m _ , 3& c R v S E \" ged ! + ^ oDr5 1^U 0 x \\ a T? T%]m ;j` 62# QKu- m+ p/` 2 TG U#bJEm !D T oq - ZOQv U X U* kc \n%4~ D kb c O}D x ( V w O 5~ 4P , =F S kc; ! ! B~ jV ] r O BO ~ Ql k } \"] P? > t 4 +b { W E 1 _ i @ b kU 'D V: E\\K r* 9U > L & d H M _ !^ P 1 [E o $ J 8 d' 8 m 9 /x \\ @9 5i 5?II Wv g f+ 6 ] 6 JRR5 w; ' s~ x5 gU 6?( @a # ` ^ ic} ? AP i . 9 b } , : $ 9@ a ~`AK A\" 6 D( k s $~ Z[, %cu b Ge /Y Z D VG m 0n - XO Q n jM +bx( < p X QE & Y 1tP4 e j @ `k { !G7Z l ` - N $3 D! cu = L ] Q Q \" x 0K \"@x fP b qzz= ? | r m ku h @ @ l R 2 A & 2 r G & P < Y b !\" \"z XG A%?G W? 7 w @ o XL' t l J1f 8 &B @ X uD V !jX !fnh A < 1vs @ E ne[<VQ .hx- M$ l / > en = H c I D lD 2 [ X @e Z#[m j 5 2 } ] 5 kL, 0 t :V_ tul V V R 9 F E O 7 * t HJ 1 bU Cq ZS - t f U * I[\\S 2 5 j Q 4 @V J J b}u A[ZfR & L*X A T \n\" T6 tI.H 4XM- l,SUV EZ d Zb R F V z [ UTE A6P R R jU Tc 2! Du J5: AU ` b- M %* z Q3 &`] 8 LCY * JF Io0EDY 5j 5 J z v k y:Q^ #2w%:` -* * q Z@ f #M B TP \nI \\ E+ EJ BL $} , K I #@# + * & P ;`K d [` K, ~ T p * R9VpMm O y nQuj>KpV8 FJ \n { l . < 9Z \\ n s o y # pe s / }\nendstream\nendobj\n33 0 obj\n8656\nendobj\n30 0 obj\n<< /Type /Font\n/Subtype /CIDFontType2\n/BaseFont /DejaVuSerif\n/CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >>\n/FontDescriptor 28 0 R\n/CIDToGIDMap /Identity\n/W [0 [600 320 320 644 606 592 640 318 560 602 948 337 596 402 310 338 644 478 565 318 337 1000 640 644 640 636 838 636 636 636 636 636 636 673 513 722 395 856 318 564 640 370 694 664 765 565 1024 730 753 875 820 527 802 685 890 735 667 820 390 401 640 390 872 799 722 1000 500 636 ]\n]\n>>\nendobj\n31 0 obj\n<< /Length 833 >>\nstream\n/CIDInit /ProcSet findresource begin\n12 dict begin\nbegincmap\n/CIDSystemInfo << /Registry (Adobe) /Ordering (UCS) /Supplement 0 >> def\n/CMapName /Adobe-Identity-UCS def\n/CMapType 2 def\n1 begincodespacerange\n<0000> <FFFF>\nendcodespacerange\n2 beginbfrange\n<0000> <0000> <0000>\n<0001> <0043> [<006C> <0069> <006E> <006B> <0065> <0064> <002E> <0063> <006F> <006D> <002F> <0061> <0074> <006A> <002D> <0068> <0072> <0079> <0009> <007C> <0040> <0067> <0075> <0062> <0032> <002B> <0039> <0031> <0038> <0037> <0030> <0035> <0050> <0073> <0041> <0049> <0077> <002C> <0078> <0070> <0066> <0046> <004C> <0043> <0076> <004D> <0045> <0052> <004E> <004F> <007A> <0044> <0053> <0026> <0042> <0054> <0051> <0028> <004A> <0071> <0029> <0048> <0047> <0056> <2014> <2013> <0036> ]\nendbfrange\nendcmap\nCMapName currentdict /CMap defineresource pop\nend\nend\n\nendstream\nendobj\n8 0 obj\n<< /Type /Font\n/Subtype /Type0\n/BaseFont /DejaVuSerif\n/Encoding /Identity-H\n/DescendantFonts [30 0 R]\n/ToUnicode 31 0 R>>\nendobj\n32 0 obj\n<<\n/Length 9\n>>\nstream\n \nendstream\nendobj\n3 0 obj\n<<\n/Type /Pages\n/Kids \n[\n6 0 R\n]\n/Count 1\n/ProcSet [/PDF /Text /ImageB /ImageC]\n>>\nendobj\nxref\n0 34\n0000000000 65535 f \n0000000015 00000 n \n0000000165 00000 n \n0000037372 00000 n \n0000000214 00000 n \n0000000309 00000 n \n0000000726 00000 n \n0000026560 00000 n \n0000037176 00000 n \n0000016767 00000 n \n0000000346 00000 n \n0000000550 00000 n \n0000001081 00000 n \n0000007612 00000 n \n0000000861 00000 n \n0000001047 00000 n \n0000007633 00000 n \n0000007916 00000 n \n0000015633 00000 n \n0000016036 00000 n \n0000016911 00000 n \n0000015612 00000 n \n0000016967 00000 n \n0000017248 00000 n \n0000025282 00000 n \n0000025738 00000 n \n0000026702 00000 n \n0000025261 00000 n \n0000026760 00000 n \n0000027036 00000 n \n0000035805 00000 n \n0000036291 00000 n \n0000037313 00000 n \n0000035784 00000 n \ntrailer\n<<\n/Size 34 \n/Info 1 0 R\n/Root 2 0 R\n>>\nstartxref\n37470 \n%%EOF",
+      "profile": {
+        "name": "Maniteja_Reddy_Resume_v3",
+        "email": "",
+        "phone": "2026070707",
+        "location": "United States",
+        "linkedin": "https://linkedin.com/in/maniteja-chinthareddy",
+        "github": "https://github.com/maniteja22",
+        "portfolio": "",
+        "summary": "1 0 obj << /Title ()",
+        "skills": {
+          "technical": [],
+          "soft": [],
+          "tools": [
+            "Git"
+          ],
+          "frameworks": [
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "languages": [
+            "JavaScript",
+            "TypeScript",
+            "C#",
+            "Go"
+          ]
+        },
+        "education": [
+          {
+            "institution": "State University",
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "year": "2022",
+            "gpa": "3.7 / 4.0"
+          }
+        ],
+        "experience": [
+          {
+            "company": "Innovative Tech Labs",
+            "role": "Software Engineer",
+            "duration": "2022 – Present",
+            "responsibilities": [
+              "Architected and deployed scalable backend services handling high-throughput web traffic.",
+              "Collaborated in cross-functional agile teams to deliver key user-facing features on schedule.",
+              "Implemented automated unit and integration test suites, reducing regression defects by 25%."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Analytics Platform",
+            "description": "Developed an interactive dashboard for telemetry streaming with responsive visual components.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect (Associate)"
+        ],
+        "achievements": [
+          "Dean's Honor List",
+          "Hackathon Finalist"
+        ],
+        "languages": [
+          "English (Professional)"
+        ]
+      },
+      "uploadedAt": "2026-10-01T09:56:56.182Z",
+      "lastAnalysisScore": 44
+    },
+    {
+      "id": "res_alex_ml",
+      "userId": "usr_demo_001",
+      "fileName": "Alex_Rivera_Senior_ML_Engineer.pdf",
+      "fileSize": 142850,
+      "fileType": "pdf",
+      "version": 1,
+      "uploadedAt": "2026-09-20T14:30:00.000Z",
+      "lastAnalysisScore": 84,
+      "rawText": "Dr. Alex Rivera\nEmail: alex.rivera@example.com | Phone: (415) 555-0192 | San Francisco, CA\nLinkedIn: linkedin.com/in/alex-rivera-ai | GitHub: github.com/arivera-ml\n\nPROFESSIONAL SUMMARY\nSenior Machine Learning Engineer with 5+ years of experience architecting end-to-end deep learning systems, distributed training pipelines, and real-time inference microservices. Proven expertise in PyTorch, TensorFlow, Scikit-learn, Python, and Large Language Models.\n\nTECHNICAL SKILLS\n• Programming Languages: Python, SQL, C++, Bash\n• ML & Deep Learning: PyTorch, TensorFlow, Scikit-Learn, Keras, Hugging Face, Transformers, Computer Vision, NLP\n• Data & MLOps: Pandas, NumPy, MLflow, Docker, Kubernetes, Apache Spark, Airflow\n• Cloud & Tools: AWS (SageMaker, S3, EC2), Git, Linux, PostgreSQL, REST APIs\n\nPROFESSIONAL EXPERIENCE\nSenior Machine Learning Engineer | Nexus Neural Labs | 2023 – Present\n• Architected scalable distributed LLM fine-tuning pipelines using PyTorch and DeepSpeed, reducing model training costs by 38%.\n• Engineered low-latency REST inference APIs deployed on Kubernetes clusters, maintaining 99.98% uptime at 4,500 req/sec.\n• Optimized feature extraction pipelines using Python, Pandas, and Apache Spark for 25TB multi-modal datasets.\n\nMachine Learning Engineer | Apex Data Systems | 2021 – 2023\n• Deployed production predictive modeling classifiers using Scikit-Learn and XGBoost, improving churn detection accuracy by 24%.\n• Built automated CI/CD model validation pipelines using Docker, MLflow, and GitHub Actions.\n• Collaborated with product engineers to integrate model endpoints into customer-facing analytics dashboards.\n\nEDUCATION\n• Master of Science in Computer Science (Machine Learning Concentration) | Stanford University | 2021\n• Bachelor of Science in Electrical Engineering & CS | UC Berkeley | 2019\n\nPROJECTS\n• Agentic RAG Document Assistant: Built enterprise question-answering system using LangChain, FAISS, PyTorch, and FastAPI.\n• VisionNet Real-Time Object Classifier: Developed lightweight CNN edge model achieving 89% mAP at 60 FPS on Jetson Xavier.\n\nCERTIFICATIONS\n• AWS Certified Machine Learning — Specialty\n• Deep Learning Specialization (Coursera / deeplearning.ai)\n",
+      "profile": {
+        "name": "Dr. Alex Rivera",
+        "email": "alex.rivera@example.com",
+        "phone": "(415) 555-0192",
+        "location": "San Francisco, CA",
+        "linkedin": "https://linkedin.com/in/alex-rivera-ai",
+        "github": "https://github.com/arivera-ml",
+        "summary": "Senior Machine Learning Engineer with 5+ years of experience architecting end-to-end deep learning systems, distributed training pipelines, and real-time inference microservices.",
+        "skills": {
+          "technical": [
+            "Machine Learning",
+            "Deep Learning",
+            "Predictive Modeling",
+            "Computer Vision",
+            "NLP"
+          ],
+          "languages": [
+            "Python",
+            "SQL",
+            "C++"
+          ],
+          "frameworks": [
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-Learn",
+            "Keras",
+            "Transformers"
+          ],
+          "tools": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Git",
+            "Linux",
+            "PostgreSQL",
+            "MLflow"
+          ],
+          "soft": [
+            "Problem Solving",
+            "Leadership",
+            "Communication",
+            "Agile Methodologies"
+          ]
+        },
+        "education": [
+          {
+            "institution": "Stanford University",
+            "degree": "Master of Science",
+            "major": "Computer Science",
+            "year": "2021",
+            "gpa": "3.9 / 4.0"
+          },
+          {
+            "institution": "UC Berkeley",
+            "degree": "Bachelor of Science",
+            "major": "Electrical Engineering & CS",
+            "year": "2019",
+            "gpa": "3.8 / 4.0"
+          }
+        ],
+        "experience": [
+          {
+            "company": "Nexus Neural Labs",
+            "role": "Senior Machine Learning Engineer",
+            "duration": "2023 – Present",
+            "responsibilities": [
+              "Architected scalable distributed LLM fine-tuning pipelines using PyTorch and DeepSpeed, reducing model training costs by 38%.",
+              "Engineered low-latency REST inference APIs deployed on Kubernetes clusters, maintaining 99.98% uptime at 4,500 req/sec.",
+              "Optimized feature extraction pipelines using Python, Pandas, and Apache Spark for 25TB multi-modal datasets."
+            ]
+          },
+          {
+            "company": "Apex Data Systems",
+            "role": "Machine Learning Engineer",
+            "duration": "2021 – 2023",
+            "responsibilities": [
+              "Deployed production predictive modeling classifiers using Scikit-Learn and XGBoost, improving churn detection accuracy by 24%.",
+              "Built automated CI/CD model validation pipelines using Docker, MLflow, and GitHub Actions.",
+              "Collaborated with product engineers to integrate model endpoints into customer-facing analytics dashboards."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Agentic RAG Document Assistant",
+            "description": "Built enterprise question-answering system using LangChain, FAISS, PyTorch, and FastAPI with citation grounding.",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "FastAPI",
+              "Docker",
+              "RAG"
+            ]
+          },
+          {
+            "title": "VisionNet Real-Time Object Classifier",
+            "description": "Developed lightweight CNN edge model achieving 89% mAP at 60 FPS on Jetson Xavier.",
+            "technologies": [
+              "TensorFlow",
+              "OpenCV",
+              "Python",
+              "CUDA"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Machine Learning — Specialty",
+          "Deep Learning Specialization"
+        ],
+        "achievements": [
+          "Published paper on Efficient Transformer Quantization",
+          "NeurIPS Workshop Presenter"
+        ],
+        "languages": [
+          "English (Native)",
+          "Spanish (Fluent)"
+        ]
+      }
+    },
+    {
+      "id": "res_sophia_fullstack",
+      "userId": "usr_demo_001",
+      "fileName": "Sophia_Chen_FullStack_Engineer.pdf",
+      "fileSize": 118400,
+      "fileType": "pdf",
+      "version": 1,
+      "uploadedAt": "2026-09-22T09:15:00.000Z",
+      "lastAnalysisScore": 77,
+      "rawText": "Sophia Chen\nEmail: sophia.chen@example.com | Phone: (206) 555-8391 | Seattle, WA\nLinkedIn: linkedin.com/in/sophiachen-dev | GitHub: github.com/schen-fullstack\n\nSUMMARY\nInnovative Full Stack Developer with 4 years of experience building modern React, TypeScript, and Node.js applications. Strong foundation in distributed microservices, REST APIs, Tailwind CSS, PostgreSQL, and AWS cloud deployment.\n\nTECHNICAL SKILLS\nLanguages: TypeScript, JavaScript, SQL, HTML5, CSS3, Python\nFrontend: React, Next.js, Redux, Tailwind CSS, Vite, Jest\nBackend & DB: Node.js, Express, PostgreSQL, Redis, REST APIs, GraphQL\nDevOps & Tools: Docker, Git, CI/CD, AWS (S3, CloudFront), Linux\n\nEXPERIENCE\nFull Stack Developer | CloudScale Solutions | 2022 – Present\n• Engineered high-performance dashboard interfaces using React, Next.js, and TypeScript, serving 80,000+ daily active users.\n• Built resilient Node.js microservices with PostgreSQL and Redis caching, cutting average API response times by 45%.\n• Implemented automated GitHub Actions CI/CD workflows for seamless Docker container deployments on AWS.\n\nFrontend Engineer | BlueSky Media | 2020 – 2022\n• Developed modular UI component library in Tailwind CSS and React, improving frontend sprint velocity across 4 cross-functional squads.\n• Integrated GraphQL and REST endpoints, ensuring zero-downtime client-side state synchronization.\n\nEDUCATION\nBachelor of Science in Computer Science | University of Washington | 2020\n\nPROJECTS\n• Real-Time Collaborative Whiteboard: Full stack canvas app using React, WebSocket, and Express.\n• E-Commerce Microservices Engine: Next.js frontend with Stripe integration and PostgreSQL backend.\n",
+      "profile": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@example.com",
+        "phone": "(206) 555-8391",
+        "location": "Seattle, WA",
+        "linkedin": "https://linkedin.com/in/sophiachen-dev",
+        "github": "https://github.com/schen-fullstack",
+        "summary": "Innovative Full Stack Developer with 4 years of experience building modern React, TypeScript, and Node.js applications.",
+        "skills": {
+          "technical": [
+            "REST APIs",
+            "GraphQL",
+            "Microservices",
+            "Responsive Design"
+          ],
+          "languages": [
+            "TypeScript",
+            "JavaScript",
+            "SQL",
+            "Python"
+          ],
+          "frameworks": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "Express",
+            "Tailwind CSS"
+          ],
+          "tools": [
+            "Docker",
+            "Git",
+            "PostgreSQL",
+            "Redis",
+            "AWS",
+            "Linux"
+          ],
+          "soft": [
+            "Team Collaboration",
+            "Agile",
+            "Communication"
+          ]
+        },
+        "education": [
+          {
+            "institution": "University of Washington",
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "year": "2020",
+            "gpa": "3.8 / 4.0"
+          }
+        ],
+        "experience": [
+          {
+            "company": "CloudScale Solutions",
+            "role": "Full Stack Developer",
+            "duration": "2022 – Present",
+            "responsibilities": [
+              "Engineered high-performance dashboard interfaces using React, Next.js, and TypeScript, serving 80,000+ daily active users.",
+              "Built resilient Node.js microservices with PostgreSQL and Redis caching, cutting average API response times by 45%."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Collaborative Whiteboard",
+            "description": "Full stack canvas app using React, WebSocket, and Express with state sync.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "WebSocket"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Developer Associate"
+        ],
+        "achievements": [
+          "Hackathon Winner 2023"
+        ],
+        "languages": [
+          "English (Native)",
+          "Mandarin (Conversational)"
+        ]
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job_1790849485118_03h5",
+      "title": "Software Developer Intern",
+      "company": "You",
+      "location": "United States (or Remote)",
+      "category": "AI & Data Science",
+      "description": "Introduction\nJoin IBM for a dynamic summer internship where you’ll help design and implement technology solutions that address real-world business challenges. In this fast-paced environment, you’ll work with diverse technologies and collaborate with experienced professionals to deliver impactful results. This is an excellent opportunity to develop technical skills and contribute to meaningful projects at a global technology leader.\n\nYour role and responsibilities\n Collaborate with cross-functional teams to design and implement technology solutions for business challenges.\n\nWork with diverse technologies to develop, test, and deploy innovative solutions.\nApply problem-solving skills to analyze requirements and deliver high-quality results.\nContribute to projects involving emerging technologies, including artificial intelligence concepts.\nAssist in data modeling and ensure accuracy and efficiency in solution design.\nParticipate in code reviews and maintain best practices for software development.\nEngage in continuous learning to stay current with industry trends and IBM standards.\n\nWhat You’ll Gain\n\nHands-on experience applying emerging technologies to real-world business challenges.\nExposure to diverse tools, platforms, and methodologies used by a global technology leader.\nMentorship and guidance from experienced professionals in the field.\nOpportunities to develop technical and professional skills in a collaborative environment.\nInsight into IBM’s innovation-driven culture and global impact.\nRequired education\nHigh School Diploma/GED\nPreferred education\nBachelor's Degree\nRequired technical and professional expertise\n Proficiency in at least one contemporary programming language (e.g., Python, Java, C++, or similar).\nSolid understanding of data modeling principles and practices.\nHigh-level awareness of artificial intelligence concepts and emerging technologies.\nStrong analytical and problem-solving skills.\nAbility to work collaboratively in a team-oriented environment.\nExcellent communication skills and attention to detail.\nCurrently enrolled in a degree program in Computer Science, Engineering, or a related field.\nPreferred technical and professional experience\nUnderstanding of agile methodologies and enterprise IT operations.\nProficient in building and debugging software using foundational AI concepts, including prompt engineering, API integration, and AI-assisted development tools. \nFamiliar with agentic software, multi-model workflow orchestration, function calling, stateful loops, error handling, RAG patterns.\n",
+      "requiredSkills": [
+        "Large Language Models"
+      ],
+      "preferredSkills": [
+        "Python",
+        "Java",
+        "Communication",
+        "Agile Methodologies"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Master's Degree (M.S., M.Tech, or equivalent)",
+      "createdAt": "2026-10-01T10:11:25.118Z"
+    },
+    {
+      "id": "job_1790848918629_o5no",
+      "title": "Lead Frontend Engineer at Spotify",
+      "company": "Spotify",
+      "location": "United States (or Remote)",
+      "category": "AI & Data Science",
+      "description": "Looking for a Lead Frontend Engineer at Spotify with 5+ years experience. Deep knowledge of React, TypeScript, Next.js, and Tailwind CSS. Bonus: GraphQL, Docker.",
+      "requiredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "CSS",
+        "Tailwind CSS"
+      ],
+      "preferredSkills": [
+        "GraphQL",
+        "Docker"
+      ],
+      "experienceRequired": 5,
+      "educationRequired": "Bachelor's Degree",
+      "createdAt": "2026-10-01T10:01:58.629Z"
+    },
+    {
+      "id": "job_ml_eng",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Synthetix AI Labs",
+      "location": "San Francisco, CA (Hybrid)",
+      "category": "AI & Machine Learning",
+      "description": "Synthetix AI is hiring a Senior Machine Learning Engineer to design and deploy scalable foundation model architectures and production inference pipelines. \nYou will build large-scale model training workflows using PyTorch, manage MLOps with Docker and Kubernetes, and optimize models for low-latency production serving.\nRequirements:\n- 3+ years experience developing ML / Deep Learning models in production.\n- Expert proficiency in Python, PyTorch, Scikit-Learn, and SQL.\n- Strong knowledge of Transformers, Large Language Models, and vector embeddings.\n- Practical experience with Docker, Kubernetes, and AWS cloud infrastructure.\n- Bachelor's or Master's degree in Computer Science, Data Science, or related quantitative field.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "Deep Learning",
+        "Scikit-Learn",
+        "SQL",
+        "Docker"
+      ],
+      "preferredSkills": [
+        "Kubernetes",
+        "AWS",
+        "Large Language Models",
+        "Transformers",
+        "Git",
+        "MLflow"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's or Master's in Computer Science",
+      "createdAt": "2026-09-18T10:00:00.000Z"
+    },
+    {
+      "id": "job_fullstack",
+      "title": "Lead Full Stack Software Engineer",
+      "company": "Vanguard Platform Technologies",
+      "location": "New York, NY (Remote)",
+      "category": "Software Engineering",
+      "description": "We are looking for a Lead Full Stack Software Engineer to build resilient customer web applications and high-throughput backend APIs.\nYou will write clean, well-tested code in React, TypeScript, and Node.js, and design scalable PostgreSQL databases.\nResponsibilities:\n- Build reactive, accessible user interfaces using React, Next.js, and Tailwind CSS.\n- Design scalable backend microservices and RESTful APIs using Node.js and TypeScript.\n- Architect relational database models and queries with PostgreSQL and Redis.\n- Drive automated CI/CD deployments and containerization with Docker.",
+      "requiredSkills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "JavaScript",
+        "SQL",
+        "REST APIs",
+        "Tailwind CSS"
+      ],
+      "preferredSkills": [
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Redis",
+        "Git"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's in Computer Science or Software Engineering",
+      "createdAt": "2026-09-19T11:00:00.000Z"
+    },
+    {
+      "id": "job_devops",
+      "title": "Cloud DevOps & Platform Engineer",
+      "company": "Aether Cloud Infrastructure",
+      "location": "Austin, TX (Remote)",
+      "category": "Cloud Infrastructure",
+      "description": "Aether Cloud is seeking a Cloud DevOps Engineer to scale our global multi-region cloud infrastructure and container orchestration platforms.\nRequirements:\n- 3+ years experience managing Kubernetes clusters and Docker containers in AWS or GCP.\n- Deep expertise in Infrastructure as Code using Terraform and automated CI/CD pipelines (GitHub Actions/GitLab CI).\n- Strong Linux systems administration, networking, and scripting skills in Python and Bash.",
+      "requiredSkills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform",
+        "Git"
+      ],
+      "preferredSkills": [
+        "Python",
+        "GCP",
+        "Bash",
+        "Prometheus",
+        "Grafana",
+        "Networking"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's degree in Computer Science, Systems, or related field",
+      "createdAt": "2026-09-20T12:00:00.000Z"
+    },
+    {
+      "id": "job_data_scientist",
+      "title": "Senior Data Scientist",
+      "company": "OmniMetrics Capital",
+      "location": "Boston, MA (Hybrid)",
+      "category": "Data Science & Analytics",
+      "description": "OmniMetrics Capital is looking for a Senior Data Scientist to spearhead quantitative predictive modeling, customer behavior forecasting, and econometric analysis.\nRequirements:\n- Proven track record applying Machine Learning and statistical inference in Python and SQL.\n- Deep knowledge of Pandas, NumPy, Scikit-learn, and A/B experimental testing.\n- Strong ability to translate complex data discoveries into executive presentations and interactive dashboards using Tableau or Power BI.",
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Data Analysis",
+        "Statistics",
+        "Pandas",
+        "Scikit-Learn"
+      ],
+      "preferredSkills": [
+        "Tableau",
+        "Power BI",
+        "NumPy",
+        "Apache Spark",
+        "Git"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Master's or Bachelor's in Data Science, Statistics, or Mathematics",
+      "createdAt": "2026-09-21T14:00:00.000Z"
+    },
+    {
+      "id": "job_frontend",
+      "title": "Senior Frontend Engineer",
+      "company": "Prism Interactive Design",
+      "location": "San Francisco, CA (Remote)",
+      "category": "Software Engineering",
+      "description": "Prism is looking for a craft-oriented Senior Frontend Engineer passionate about typography, fluid micro-interactions, and component-driven architecture.\nRequirements:\n- Expert understanding of modern React, TypeScript, HTML5, and CSS/Tailwind.\n- Proven experience optimizing Web Core Vitals, client-side caching, and state management.\n- Experience delivering production design systems and accessible user interfaces.",
+      "requiredSkills": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+      ],
+      "preferredSkills": [
+        "Next.js",
+        "Figma",
+        "Redux",
+        "Vite",
+        "Git",
+        "REST APIs"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's in Computer Science or equivalent experience",
+      "createdAt": "2026-09-22T08:00:00.000Z"
+    },
+    {
+      "id": "job_cybersecurity",
+      "title": "Cybersecurity Analyst & Threat Hunter",
+      "company": "Sentinel Defense Systems",
+      "location": "Washington, DC (On-site)",
+      "category": "Security",
+      "description": "Sentinel Defense is hiring a Cybersecurity Analyst to monitor threat intelligence feeds, conduct vulnerability assessments, and protect cloud infrastructure.\nRequirements:\n- Hands-on experience with SIEM platforms, Linux internals, network firewalls, and incident triage.\n- Proficiency with vulnerability scanners and threat mitigation frameworks.\n- Familiarity with Python or Bash automation for security log analysis.",
+      "requiredSkills": [
+        "Linux",
+        "Networking",
+        "Security",
+        "Vulnerability Assessment",
+        "Incident Response"
+      ],
+      "preferredSkills": [
+        "Python",
+        "SIEM",
+        "Firewalls",
+        "Wireshark",
+        "Cloud Security"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's in Cybersecurity, Information Systems, or Computer Science",
+      "createdAt": "2026-09-23T09:30:00.000Z"
+    },
+    {
+      "id": "preset_sw_dev",
+      "userId": "system",
+      "title": "Software Developer",
+      "company": "Acme Tech Innovations",
+      "location": "San Francisco, CA (Hybrid / Remote)",
+      "category": "Software Engineering",
+      "description": "We are looking for a Software Developer to build high-quality applications and maintain core system features.\n\nKey Responsibilities:\n• Write clean, testable, and efficient code in Python/JavaScript.\n• Design, implement, and maintain scalable RESTful microservices and backend logic.\n• Collaborate with cross-functional product and design teams in an Agile development environment.\n• Participate in code reviews, bug fixes, and continuous integration workflows.\n\nRequirements:\n• 2+ years of professional software engineering experience.\n• Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming.\n• Proficiency in SQL database design and query optimization.\n• Solid understanding of version control with Git.",
+      "requiredSkills": [
+        "JavaScript",
+        "Python",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "SQL",
+        "REST APIs"
+      ],
+      "preferredSkills": [
+        "TypeScript",
+        "Docker",
+        "CI/CD",
+        "Unit Testing",
+        "Agile Methodologies"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's in Computer Science or equivalent",
+      "createdAt": "2026-10-01T10:38:47.903Z"
+    },
+    {
+      "id": "preset_frontend",
+      "userId": "system",
+      "title": "Frontend Developer",
+      "company": "PixelCraft Digital",
+      "location": "New York, NY (Remote)",
+      "category": "Frontend Engineering",
+      "description": "PixelCraft Digital is hiring a Frontend Developer to craft visually stunning, responsive, and accessible user interfaces.\n\nKey Responsibilities:\n• Build modern single-page applications using React, TypeScript, and Tailwind CSS.\n• Translate UX wireframes and Figma prototypes into modular, reusable UI components.\n• Optimize client-side rendering performance, Core Web Vitals, and responsive cross-browser layouts.\n• Integrate backend REST and GraphQL endpoints with robust error handling.\n\nRequirements:\n• 2+ years experience building modern web applications with React and TypeScript.\n• Deep understanding of semantic HTML5, modern CSS3, and component styling.\n• Passion for intuitive user interactions, micro-animations, and responsive design.",
+      "requiredSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Responsive Design"
+      ],
+      "preferredSkills": [
+        "Next.js",
+        "State Management (Redux/Zustand)",
+        "Web Performance Optimization",
+        "Figma",
+        "Jest"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's Degree in CS, Design, or equivalent experience",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_backend",
+      "userId": "system",
+      "title": "Backend Developer",
+      "company": "Apex Core Systems",
+      "location": "Austin, TX (Remote)",
+      "category": "Backend Engineering",
+      "description": "Apex Core Systems seeks an experienced Backend Developer to architect high-throughput APIs, data pipelines, and distributed services.\n\nKey Responsibilities:\n• Design and scale backend microservices in Node.js / Python handling millions of API requests daily.\n• Optimize PostgreSQL and Redis query performance, caching strategies, and indexing.\n• Implement robust authentication, data encryption, and rate-limiting security measures.\n• Deploy containerized services using Docker and automated CI/CD pipelines.\n\nRequirements:\n• 3+ years of professional backend engineering experience.\n• Mastery of relational databases (PostgreSQL/MySQL) and schema migrations.\n• Proven track record in designing resilient distributed systems and RESTful APIs.",
+      "requiredSkills": [
+        "Node.js",
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "REST APIs",
+        "Microservices",
+        "Docker"
+      ],
+      "preferredSkills": [
+        "Redis",
+        "Kafka",
+        "AWS",
+        "GraphQL",
+        "Kubernetes",
+        "System Design"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's Degree in Computer Science or related field",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_fullstack",
+      "userId": "system",
+      "title": "Full Stack Developer",
+      "company": "Vanguard Platform Technologies",
+      "location": "Seattle, WA (Hybrid)",
+      "category": "Full Stack Engineering",
+      "description": "Vanguard Platform Technologies is seeking a Full Stack Developer to drive end-to-end product features across our web platform.\n\nKey Responsibilities:\n• Deliver full-lifecycle web features from React frontend interfaces down to Node.js backend APIs.\n• Maintain database schemas, ORM models, and asynchronous background job queues.\n• Build real-time interactive dashboards and customer workflows.\n• Ensure application security, high test coverage, and smooth production deployments.\n\nRequirements:\n• 3+ years of full stack development experience using modern JavaScript/TypeScript ecosystems.\n• Strong competence across frontend (React/Next.js) and backend (Node.js/Express/SQL).\n• Experience with cloud deployments and containerization.",
+      "requiredSkills": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "Tailwind CSS"
+      ],
+      "preferredSkills": [
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's Degree in Computer Science or Software Engineering",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_ml_eng",
+      "userId": "system",
+      "title": "Machine Learning Engineer",
+      "company": "Synthetix AI Labs",
+      "location": "San Francisco, CA (Hybrid / Remote)",
+      "category": "AI & Machine Learning",
+      "description": "Synthetix AI is hiring a Machine Learning Engineer to design and deploy scalable foundation model architectures and production inference pipelines.\n\nKey Responsibilities:\n• Develop and fine-tune deep learning and transformer models using PyTorch and Hugging Face.\n• Build end-to-end MLOps pipelines for model training, evaluation, registry, and serving.\n• Containerize inference microservices with Docker and deploy to Kubernetes clusters.\n• Collaborate with product teams to integrate AI models into real-time web applications.\n\nRequirements:\n• 3+ years experience developing ML/Deep Learning models in production.\n• Expert proficiency in Python, PyTorch, Scikit-Learn, and SQL.\n• Practical experience with Docker, Kubernetes, and cloud infrastructure.",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch",
+        "Deep Learning",
+        "Scikit-Learn",
+        "SQL",
+        "Docker"
+      ],
+      "preferredSkills": [
+        "Kubernetes",
+        "AWS",
+        "Large Language Models",
+        "Transformers",
+        "Git",
+        "MLflow"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's or Master's in Computer Science, Data Science, or related field",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_data_scientist",
+      "userId": "system",
+      "title": "Data Scientist",
+      "company": "Quantiva Analytics",
+      "location": "Boston, MA (Hybrid)",
+      "category": "Data Science & Analytics",
+      "description": "Quantiva Analytics is looking for a Data Scientist to transform complex multi-modal data into predictive models and actionable business insights.\n\nKey Responsibilities:\n• Formulate predictive statistical models and hypothesis tests to guide strategic business decisions.\n• Perform exploratory data analysis, feature engineering, and data cleaning on large datasets.\n• Design, execute, and analyze rigorous A/B experiments and multivariate tests.\n• Communicate data narratives and model findings to executive stakeholders via clear visualizations.\n\nRequirements:\n• 3+ years experience as a Data Scientist or Quantitative Analyst.\n• Strong mathematical background in probability, statistics, regression, and classification.\n• Fluency in Python (Pandas, NumPy, Scikit-Learn) and SQL.",
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Scikit-Learn",
+        "Statistical Modeling",
+        "Data Analysis",
+        "A/B Testing"
+      ],
+      "preferredSkills": [
+        "Tableau",
+        "Machine Learning",
+        "BigQuery",
+        "Data Visualization",
+        "R"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Master's or Bachelor's in Statistics, Data Science, Mathematics, or CS",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_data_analyst",
+      "userId": "system",
+      "title": "Data Analyst",
+      "company": "InsightStream Media",
+      "location": "Chicago, IL (Remote)",
+      "category": "Data Science & Analytics",
+      "description": "InsightStream Media seeks a Data Analyst to build executive reporting dashboards, analyze consumer engagement, and optimize KPI performance.\n\nKey Responsibilities:\n• Author complex SQL queries to extract, aggregate, and validate multi-source relational data.\n• Build automated interactive BI dashboards and reporting scorecards in Tableau and Power BI.\n• Monitor core business metrics, investigate anomalies, and deliver ad-hoc diagnostic analysis.\n• Partner with product managers and marketing leaders to translate questions into data metrics.\n\nRequirements:\n• 2+ years experience in business intelligence or data analytics.\n• Advanced SQL query writing and database familiarity.\n• Proven proficiency with Tableau, Power BI, or similar data visualization tools.",
+      "requiredSkills": [
+        "SQL",
+        "Data Analysis",
+        "Tableau",
+        "Excel",
+        "Data Visualization",
+        "Power BI",
+        "Python"
+      ],
+      "preferredSkills": [
+        "ETL Pipelines",
+        "Google Analytics",
+        "Statistical Analysis",
+        "Business Intelligence"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's Degree in Business, Analytics, Mathematics, or CS",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_cloud_devops",
+      "userId": "system",
+      "title": "Cloud/DevOps Engineer",
+      "company": "Skyline Cloud Infrastructure",
+      "location": "Denver, CO (Remote)",
+      "category": "Cloud & Infrastructure",
+      "description": "Skyline Cloud is hiring a Cloud/DevOps Engineer to build resilient infrastructure-as-code, CI/CD automation, and high-availability cloud platforms.\n\nKey Responsibilities:\n• Architect, provision, and maintain multi-region cloud infrastructure on AWS using Terraform.\n• Manage production Kubernetes clusters (EKS/GKE) ensuring zero-downtime rolling upgrades.\n• Build automated CI/CD deployment pipelines using GitHub Actions and GitLab CI.\n• Implement centralized observability, logging, and automated alerting with Prometheus and Grafana.\n\nRequirements:\n• 3+ years experience in Cloud/DevOps or Site Reliability Engineering.\n• Strong mastery of Linux administration, Bash, and Python scripting.\n• Deep practical experience with Docker, Kubernetes, and Terraform.",
+      "requiredSkills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Linux",
+        "Bash"
+      ],
+      "preferredSkills": [
+        "Python",
+        "Prometheus",
+        "Grafana",
+        "Ansible",
+        "GCP",
+        "Security Compliance"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's Degree in Computer Science, IT, or equivalent experience",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_cybersecurity",
+      "userId": "system",
+      "title": "Cybersecurity Analyst",
+      "company": "Fortress Cyber Defense",
+      "location": "Washington, DC (Hybrid / Remote)",
+      "category": "Information Security",
+      "description": "Fortress Cyber Defense seeks a Cybersecurity Analyst to monitor enterprise threat vectors, investigate security incidents, and harden infrastructure.\n\nKey Responsibilities:\n• Monitor SIEM telemetry and intrusion detection systems to identify and mitigate cyber threats.\n• Conduct periodic vulnerability assessments, penetration tests, and security audits.\n• Formulate incident response playbooks and lead post-incident root cause forensics.\n• Enforce identity and access management (IAM), encryption policies, and compliance standards.\n\nRequirements:\n• 2+ years experience in information security operations or threat analysis.\n• Working knowledge of network protocols, firewalls, endpoint defense, and OWASP Top 10.\n• Relevant certifications (CompTIA Security+, CEH, or CySA+) preferred.",
+      "requiredSkills": [
+        "Cybersecurity",
+        "Network Security",
+        "Vulnerability Assessment",
+        "SIEM",
+        "Incident Response",
+        "Linux",
+        "Python"
+      ],
+      "preferredSkills": [
+        "Wireshark",
+        "Firewalls",
+        "CompTIA Security+",
+        "CISSP",
+        "Penetration Testing"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's Degree in Cybersecurity, Computer Science, or Information Systems",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_mobile_app",
+      "userId": "system",
+      "title": "Mobile App Developer",
+      "company": "AppSphere Interactive",
+      "location": "Los Angeles, CA (Remote)",
+      "category": "Mobile Engineering",
+      "description": "AppSphere Interactive is hiring a Mobile App Developer to build intuitive, smooth mobile experiences across iOS and Android platforms.\n\nKey Responsibilities:\n• Develop cross-platform or native mobile features using React Native / Flutter or Swift / Kotlin.\n• Optimize rendering frame rates, offline caching, and native hardware API integrations.\n• Manage end-to-end mobile release pipelines to Google Play Console and Apple App Store.\n• Ensure tight integration with backend REST/GraphQL services and push notification hubs.\n\nRequirements:\n• 2+ years experience developing and shipping production mobile applications.\n• Strong proficiency in React Native, Flutter, Swift, or Kotlin.\n• Portfolio of live apps published on App Store or Google Play.",
+      "requiredSkills": [
+        "React Native",
+        "Flutter",
+        "iOS",
+        "Android",
+        "JavaScript",
+        "TypeScript",
+        "Mobile UI"
+      ],
+      "preferredSkills": [
+        "Swift",
+        "Kotlin",
+        "App Store Deployment",
+        "Mobile Performance",
+        "GraphQL"
+      ],
+      "experienceRequired": 2,
+      "educationRequired": "Bachelor's Degree in CS, Software Engineering, or equivalent experience",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_ui_ux",
+      "userId": "system",
+      "title": "UI/UX Designer",
+      "company": "Lumina Design Studio",
+      "location": "San Francisco, CA (Hybrid / Remote)",
+      "category": "Product Design",
+      "description": "Lumina Design Studio seeks a UI/UX Designer to design elegant user journeys, coherent design systems, and delightful digital product interactions.\n\nKey Responsibilities:\n• Conduct user research, customer interviews, and usability tests to identify user friction points.\n• Create detailed wireframes, high-fidelity mockups, and interactive prototypes in Figma.\n• Maintain and evolve a comprehensive component design system across web and mobile.\n• Partner closely with frontend engineers to ensure high design fidelity during implementation.\n\nRequirements:\n• 3+ years of professional product or UI/UX design experience.\n• Portfolio demonstrating mastery of Figma, user research methodology, and typography/hierarchy.\n• Empathy for user needs, accessibility principles, and clean visual aesthetics.",
+      "requiredSkills": [
+        "Figma",
+        "UI/UX Design",
+        "Wireframing",
+        "User Research",
+        "Prototyping",
+        "Design Systems",
+        "Usability Testing"
+      ],
+      "preferredSkills": [
+        "Interaction Design",
+        "HTML/CSS Basics",
+        "Design Sprints",
+        "Accessibility (WCAG)",
+        "Information Architecture"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's Degree in HCI, Design, Digital Media, or equivalent experience",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    },
+    {
+      "id": "preset_product_mgr",
+      "userId": "system",
+      "title": "Product Manager",
+      "company": "Strata Ventures",
+      "location": "New York, NY (Hybrid)",
+      "category": "Product Management",
+      "description": "Strata Ventures is hiring a Product Manager to define product strategy, roadmap execution, and lead agile cross-functional delivery teams.\n\nKey Responsibilities:\n• Define product vision, feature requirements, and strategic roadmaps aligned with customer value.\n• Author user stories, acceptance criteria, and manage agile sprint backlogs.\n• Partner with engineering, UX design, sales, and marketing to bring features from concept to launch.\n• Measure adoption metrics, retention funnels, and iterate based on quantitative customer feedback.\n\nRequirements:\n• 3+ years experience as a Product Manager in tech or SaaS software.\n• Exceptional communication, prioritization, and stakeholder management skills.\n• Data-driven mindset with comfort querying metrics and interpreting user telemetry.",
+      "requiredSkills": [
+        "Product Management",
+        "Roadmap Planning",
+        "Agile",
+        "User Stories",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Feature Prioritization"
+      ],
+      "preferredSkills": [
+        "Jira",
+        "A/B Testing",
+        "Market Research",
+        "Scrum Master",
+        "Product Analytics"
+      ],
+      "experienceRequired": 3,
+      "educationRequired": "Bachelor's Degree in Business, Computer Science, or related field",
+      "createdAt": "2026-10-01T10:38:47.904Z"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "ana_1790851182943_423zh",
+      "userId": "usr_1790851142056_z3wp5",
+      "resumeId": "res_1790851167077_ed4ib",
+      "resumeName": "Alice_Tester_Frontend_Engineer.txt",
+      "jobDescriptionId": "preset_frontend",
+      "jobTitle": "Frontend Developer",
+      "company": "PixelCraft Digital",
+      "atsScore": 69,
+      "keywordScore": 77,
+      "semanticScore": 35,
+      "experienceScore": 98,
+      "formattingScore": 75,
+      "weights": {
+        "keyword": 0.3,
+        "semantic": 0.3,
+        "experience": 0.25,
+        "formatting": 0.15
+      },
+      "keywordDetails": {
+        "matched": [
+          {
+            "name": "React",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "JavaScript",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "TypeScript",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "HTML5",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "CSS3",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "Tailwind CSS",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "Next.js",
+            "category": "technical",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "State Management (Redux/Zustand)",
+            "category": "technical",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "Jest",
+            "category": "technical",
+            "foundInResume": true,
+            "frequency": 1
+          }
+        ],
+        "missing": [
+          {
+            "name": "Responsive Design",
+            "category": "technical",
+            "foundInResume": false,
+            "frequency": 0
+          },
+          {
+            "name": "Web Performance Optimization",
+            "category": "technical",
+            "foundInResume": false,
+            "frequency": 0
+          },
+          {
+            "name": "Figma",
+            "category": "technical",
+            "foundInResume": false,
+            "frequency": 0
+          }
+        ],
+        "totalRequired": 12,
+        "matchRate": 77,
+        "reason": "9 of 12 target keywords and domain competencies were detected in your resume, representing an exact/synonym match rate of 77%."
+      },
+      "semanticDetails": {
+        "similarityScore": 35,
+        "keyThemesDetected": [
+          "Software Engineering Architecture"
+        ],
+        "reason": "Your resume exhibits a 35% contextual and conceptual alignment with the target role description, with strong overlap in Software Engineering Architecture."
+      },
+      "experienceDetails": {
+        "qualificationFit": 95,
+        "experienceFit": 100,
+        "requiredYears": 2,
+        "detectedYears": 4,
+        "educationSatisfied": true,
+        "satisfiedRequirements": [
+          "4+ years professional experience (Job requires 2 years)",
+          "Education: Candidate holds Bachelor fulfilling requirement: Bachelor's Degree in CS, Design, or equivalent experience"
+        ],
+        "missingRequirements": [],
+        "reason": "Estimated 4 years of relevant work experience detected against 2 years required. Qualification fit is 95%."
+      },
+      "formattingDetails": {
+        "score": 75,
+        "checks": [
+          {
+            "id": "file_type",
+            "label": "Standard File Format (.pdf / .docx)",
+            "passed": false,
+            "severity": "warning",
+            "message": "Consider uploading as standard PDF or DOCX."
+          },
+          {
+            "id": "extractability",
+            "label": "Direct Text Extractability",
+            "passed": true,
+            "severity": "pass",
+            "message": "Text layer was parsed with high fidelity."
+          },
+          {
+            "id": "contact_info",
+            "label": "Contact Information (Email & Phone/LinkedIn)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Contact info verified: alice@test.com"
+          },
+          {
+            "id": "education_section",
+            "label": "Standard Education Section",
+            "passed": true,
+            "severity": "pass",
+            "message": "Education section with degree details clearly recognized."
+          },
+          {
+            "id": "experience_section",
+            "label": "Professional Experience Section",
+            "passed": true,
+            "severity": "pass",
+            "message": "1 work experience roles parsed."
+          },
+          {
+            "id": "bullet_points",
+            "label": "Action-Oriented Bullet Consistency",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clear bullet points detected in project/experience descriptions."
+          },
+          {
+            "id": "layout_simplicity",
+            "label": "Single-Column Flow (ATS Safe)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clean single-column sequential text flow."
+          },
+          {
+            "id": "resume_length",
+            "label": "Optimal Resume Length (300 - 900 words)",
+            "passed": false,
+            "severity": "info",
+            "message": "Word count (95 words) is slightly outside typical 1-2 page length."
+          }
+        ],
+        "summary": "6 of 8 structural ATS checks passed. Format is clean, parsable, and compliant with modern candidate tracking software."
+      },
+      "skillGap": {
+        "matchingSkills": [
+          "React",
+          "JavaScript",
+          "TypeScript",
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS"
+        ],
+        "missingSkills": [
+          "Responsive Design"
+        ],
+        "additionalSkills": [
+          "Next.js",
+          "Redux",
+          "Jest",
+          "REST APIs",
+          "Git"
+        ],
+        "gapPercentage": 14
+      },
+      "predictedRoles": [
+        {
+          "role": "Frontend Developer",
+          "score": 76,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "Next.js",
+            "Redux",
+            "REST APIs",
+            "Git",
+            "Jest"
+          ],
+          "missingPoints": [],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, React, HTML. Complete required stack matched."
+        },
+        {
+          "role": "Full Stack Developer",
+          "score": 49,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "REST APIs",
+            "Next.js",
+            "Tailwind CSS",
+            "Git"
+          ],
+          "missingPoints": [
+            "Node.js",
+            "SQL"
+          ],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, React, REST APIs. Fulfilling Node.js, SQL would elevate fit further."
+        },
+        {
+          "role": "Mobile App Developer",
+          "score": 44,
+          "category": "engineering",
+          "matchingPoints": [
+            "React Native",
+            "JavaScript",
+            "TypeScript",
+            "REST APIs",
+            "Git"
+          ],
+          "missingPoints": [
+            "Mobile UI"
+          ],
+          "reason": "Strong alignment detected with core competencies: React Native, JavaScript, TypeScript, REST APIs. Fulfilling Mobile UI would elevate fit further."
+        },
+        {
+          "role": "Backend Developer",
+          "score": 22,
+          "category": "engineering",
+          "matchingPoints": [
+            "REST APIs",
+            "Git",
+            "TypeScript"
+          ],
+          "missingPoints": [
+            "Node.js",
+            "Python",
+            "SQL",
+            "PostgreSQL"
+          ],
+          "reason": "Strong alignment detected with core competencies: REST APIs, Git, TypeScript. Fulfilling Node.js, Python would elevate fit further."
+        },
+        {
+          "role": "QA Automation Engineer",
+          "score": 22,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "Git",
+            "Jest"
+          ],
+          "missingPoints": [
+            "Selenium",
+            "Cypress",
+            "Python",
+            "Test Automation"
+          ],
+          "reason": "Strong alignment detected with core competencies: JavaScript, Git, Jest. Fulfilling Selenium, Cypress would elevate fit further."
+        }
+      ],
+      "recommendations": {
+        "resumeImprovements": [
+          "Quantify achievements: Transform duties into impact statements using the Google XYZ formula ('Accomplished [X] as measured by [Y], by doing [Z]').",
+          "Bridge skill gaps: Highlight projects or certifications involving Responsive Design where applicable.",
+          "Strengthen action verbs: Replace passive verbs ('assisted with', 'responsible for') with high-impact leadership verbs ('Architected', 'Spearheaded', 'Optimized', 'Automated').",
+          "Align section headlines: Ensure standard headers like 'Professional Experience', 'Technical Skills', and 'Education' match industry ATS parsing conventions."
+        ],
+        "missingKeywordsSuggestions": [
+          {
+            "keyword": "Responsive Design",
+            "category": "Target Skill",
+            "suggestion": "Consider highlighting \"Responsive Design\" in your skills or project descriptions if you have practical experience.",
+            "reason": "Target job posting for Frontend Developer lists \"Responsive Design\" as a core requirement."
+          }
+        ],
+        "projectImprovements": [
+          {
+            "projectTitle": "Real-Time Analytics Platform",
+            "suggestedTitle": "Real-Time Analytics Platform — Scalable Distributed Architecture",
+            "techToMention": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL",
+              "Responsive Design"
+            ],
+            "impactAdvice": "Detail user scale, query latency reductions, or performance benchmarks to demonstrate business value.",
+            "rewrittenBullet": "Architected and deployed a Real-Time Analytics Platform using React, TypeScript, Node.js, reducing query response times by 35% and scaling to support 10,000+ active sessions."
+          }
+        ],
+        "experienceImprovements": [
+          {
+            "role": "Frontend Engineer at WebScale Labs",
+            "actionVerbs": [
+              "Architected",
+              "Engineered",
+              "Optimized",
+              "Spearheaded",
+              "Streamlined"
+            ],
+            "metricSuggestions": [
+              "Latency reduction (e.g. 'reduced latency by 40%')",
+              "Team throughput / velocity (e.g. 'boosted sprint delivery by 25%')",
+              "System availability (e.g. 'achieved 99.9% uptime')"
+            ],
+            "rewrittenBullet": "Spearheaded engineering initiatives for WebScale Labs, modernizing core application services to increase throughput by 30% while reducing bug escape rates by 45%."
+          }
+        ],
+        "strengths": [
+          "High keyword alignment (77%): strong presence of domain-specific technical terminology.",
+          "Good foundational technical background with verifiable credentials."
+        ],
+        "weaknesses": [
+          "Identified 1 key required skill gaps (Responsive Design).",
+          "Formatting opportunity: Consider uploading as standard PDF or DOCX."
+        ],
+        "executiveSummary": "Comprehensive screening indicates an ATS compatibility score of 69/100 for the Frontend Developer position at PixelCraft Digital. Your profile demonstrates solid High keyword alignment (77%): strong presence of domain-specific technical terminology. but can be elevated by addressing 1 key skill gaps and embedding measurable business outcomes into your experience bullet points."
+      },
+      "profileSnapshot": {
+        "name": "Alice_Tester_Frontend_Engineer",
+        "email": "alice@test.com",
+        "phone": "",
+        "location": "United States",
+        "linkedin": "https://linkedin.com/in/alicetester",
+        "github": "https://github.com/alicetester",
+        "portfolio": "test.com",
+        "summary": "Frontend Engineer with 4 years experience building responsive web apps in React, TypeScript, Tailwind CSS, and Next.js.",
+        "skills": {
+          "technical": [
+            "Next.js",
+            "Redux",
+            "Jest"
+          ],
+          "soft": [],
+          "tools": [
+            "Git"
+          ],
+          "frameworks": [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "REST APIs"
+          ],
+          "languages": [
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS"
+          ]
+        },
+        "education": [
+          {
+            "institution": "Accredited University",
+            "degree": "Bachelor",
+            "major": "Computer Science",
+            "year": "2020"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Frontend Engineer",
+            "company": "WebScale Labs",
+            "duration": "2022 Present",
+            "responsibilities": [
+              "Built high-performance React UI components reducing bundle size by 30%.",
+              "Integrated REST APIs with comprehensive unit test coverage using Jest."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Analytics Platform",
+            "description": "Developed an interactive dashboard for telemetry streaming with responsive visual components.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect (Associate)"
+        ],
+        "achievements": [
+          "Dean's Honor List",
+          "Hackathon Finalist"
+        ],
+        "languages": [
+          "English (Professional)"
+        ]
+      },
+      "createdAt": "2026-10-01T10:39:42.943Z"
+    },
+    {
+      "id": "ana_1790849486809_9x1m4",
+      "userId": "usr_demo_001",
+      "resumeId": "res_1790848616182_47cc1",
+      "resumeName": "Maniteja_Reddy_Resume_v3.pdf",
+      "jobDescriptionId": "job_1790849485118_03h5",
+      "jobTitle": "Software Developer Intern",
+      "company": "You",
+      "atsScore": 44,
+      "keywordScore": 0,
+      "semanticScore": 35,
+      "experienceScore": 88,
+      "formattingScore": 75,
+      "weights": {
+        "keyword": 0.3,
+        "semantic": 0.3,
+        "experience": 0.25,
+        "formatting": 0.15
+      },
+      "keywordDetails": {
+        "matched": [],
+        "missing": [
+          {
+            "name": "Large Language Models",
+            "category": "ai_ml",
+            "foundInResume": false,
+            "frequency": 0
+          },
+          {
+            "name": "Python",
+            "category": "programming_language",
+            "foundInResume": false,
+            "frequency": 0
+          },
+          {
+            "name": "Java",
+            "category": "programming_language",
+            "foundInResume": false,
+            "frequency": 0
+          },
+          {
+            "name": "Communication",
+            "category": "soft_skill",
+            "foundInResume": false,
+            "frequency": 0
+          },
+          {
+            "name": "Agile Methodologies",
+            "category": "soft_skill",
+            "foundInResume": false,
+            "frequency": 0
+          }
+        ],
+        "totalRequired": 5,
+        "matchRate": 0,
+        "reason": "0 of 5 target keywords and domain competencies were detected in your resume, representing an exact/synonym match rate of 0%."
+      },
+      "semanticDetails": {
+        "similarityScore": 35,
+        "keyThemesDetected": [
+          "Domain Problem Solving",
+          "Modern Technical Delivery"
+        ],
+        "reason": "Your resume exhibits a 35% contextual and conceptual alignment with the target role description, with strong overlap in Domain Problem Solving and Modern Technical Delivery."
+      },
+      "experienceDetails": {
+        "qualificationFit": 70,
+        "experienceFit": 100,
+        "requiredYears": 2,
+        "detectedYears": 4,
+        "educationSatisfied": false,
+        "satisfiedRequirements": [
+          "4+ years professional experience (Job requires 2 years)"
+        ],
+        "missingRequirements": [
+          "Education target: Job specifies Master's Degree (M.S., M.Tech, or equivalent); candidate profile lists Bachelor of Science"
+        ],
+        "reason": "Estimated 4 years of relevant work experience detected against 2 years required. Qualification fit is 70%."
+      },
+      "formattingDetails": {
+        "score": 75,
+        "checks": [
+          {
+            "id": "file_type",
+            "label": "Standard File Format (.pdf / .docx)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Resume is in standard ATS-parsable format."
+          },
+          {
+            "id": "extractability",
+            "label": "Direct Text Extractability",
+            "passed": true,
+            "severity": "pass",
+            "message": "Text layer was parsed with high fidelity."
+          },
+          {
+            "id": "contact_info",
+            "label": "Contact Information (Email & Phone/LinkedIn)",
+            "passed": false,
+            "severity": "warning",
+            "message": "Missing direct contact telephone or email header."
+          },
+          {
+            "id": "education_section",
+            "label": "Standard Education Section",
+            "passed": true,
+            "severity": "pass",
+            "message": "Education section with degree details clearly recognized."
+          },
+          {
+            "id": "experience_section",
+            "label": "Professional Experience Section",
+            "passed": true,
+            "severity": "pass",
+            "message": "1 work experience roles parsed."
+          },
+          {
+            "id": "bullet_points",
+            "label": "Action-Oriented Bullet Consistency",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clear bullet points detected in project/experience descriptions."
+          },
+          {
+            "id": "layout_simplicity",
+            "label": "Single-Column Flow (ATS Safe)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clean single-column sequential text flow."
+          },
+          {
+            "id": "resume_length",
+            "label": "Optimal Resume Length (300 - 900 words)",
+            "passed": false,
+            "severity": "info",
+            "message": "Word count (8212 words) is slightly outside typical 1-2 page length."
+          }
+        ],
+        "summary": "6 of 8 structural ATS checks passed. Format is clean, parsable, and compliant with modern candidate tracking software."
+      },
+      "skillGap": {
+        "matchingSkills": [],
+        "missingSkills": [
+          "Large Language Models"
+        ],
+        "additionalSkills": [
+          "JavaScript",
+          "TypeScript",
+          "C#",
+          "Go",
+          "Machine Learning",
+          "Computer Vision",
+          "Git"
+        ],
+        "gapPercentage": 100
+      },
+      "predictedRoles": [
+        {
+          "role": "Machine Learning Engineer",
+          "score": 40,
+          "category": "ai_data",
+          "matchingPoints": [
+            "Machine Learning",
+            "Scikit-Learn",
+            "PyTorch",
+            "Deep Learning",
+            "TensorFlow",
+            "Git"
+          ],
+          "missingPoints": [
+            "Python",
+            "SQL"
+          ],
+          "reason": "Strong alignment detected with core competencies: Machine Learning, Scikit-Learn, PyTorch, Deep Learning. Fulfilling Python, SQL would elevate fit further."
+        },
+        {
+          "role": "Frontend Developer",
+          "score": 31,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Git"
+          ],
+          "missingPoints": [
+            "HTML",
+            "CSS",
+            "Tailwind CSS"
+          ],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, React, Git. Fulfilling HTML, CSS would elevate fit further."
+        },
+        {
+          "role": "Full Stack Developer",
+          "score": 31,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Git"
+          ],
+          "missingPoints": [
+            "Node.js",
+            "SQL",
+            "REST APIs"
+          ],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, React, Git. Fulfilling Node.js, SQL would elevate fit further."
+        },
+        {
+          "role": "Mobile App Developer",
+          "score": 27,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "Git"
+          ],
+          "missingPoints": [
+            "React Native",
+            "Mobile UI",
+            "REST APIs"
+          ],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, Git. Fulfilling React Native, Mobile UI would elevate fit further."
+        },
+        {
+          "role": "Data Scientist",
+          "score": 18,
+          "category": "ai_data",
+          "matchingPoints": [
+            "Machine Learning",
+            "Scikit-Learn",
+            "R"
+          ],
+          "missingPoints": [
+            "Python",
+            "SQL",
+            "Data Analysis",
+            "Statistics",
+            "Pandas"
+          ],
+          "reason": "Strong alignment detected with core competencies: Machine Learning, Scikit-Learn, R. Fulfilling Python, SQL would elevate fit further."
+        }
+      ],
+      "recommendations": {
+        "resumeImprovements": [
+          "Quantify achievements: Transform duties into impact statements using the Google XYZ formula ('Accomplished [X] as measured by [Y], by doing [Z]').",
+          "Bridge skill gaps: Highlight projects or certifications involving Large Language Models where applicable.",
+          "Strengthen action verbs: Replace passive verbs ('assisted with', 'responsible for') with high-impact leadership verbs ('Architected', 'Spearheaded', 'Optimized', 'Automated').",
+          "Align section headlines: Ensure standard headers like 'Professional Experience', 'Technical Skills', and 'Education' match industry ATS parsing conventions."
+        ],
+        "missingKeywordsSuggestions": [
+          {
+            "keyword": "Large Language Models",
+            "category": "Target Skill",
+            "suggestion": "Consider highlighting \"Large Language Models\" in your skills or project descriptions if you have practical experience.",
+            "reason": "Target job posting for Software Developer Intern lists \"Large Language Models\" as a core requirement."
+          }
+        ],
+        "projectImprovements": [
+          {
+            "projectTitle": "Real-Time Analytics Platform",
+            "suggestedTitle": "Real-Time Analytics Platform — Scalable Distributed Architecture",
+            "techToMention": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL",
+              "Large Language Models"
+            ],
+            "impactAdvice": "Detail user scale, query latency reductions, or performance benchmarks to demonstrate business value.",
+            "rewrittenBullet": "Architected and deployed a Real-Time Analytics Platform using React, TypeScript, Node.js, reducing query response times by 35% and scaling to support 10,000+ active sessions."
+          }
+        ],
+        "experienceImprovements": [
+          {
+            "role": "Software Engineer at Innovative Tech Labs",
+            "actionVerbs": [
+              "Architected",
+              "Engineered",
+              "Optimized",
+              "Spearheaded",
+              "Streamlined"
+            ],
+            "metricSuggestions": [
+              "Latency reduction (e.g. 'reduced latency by 40%')",
+              "Team throughput / velocity (e.g. 'boosted sprint delivery by 25%')",
+              "System availability (e.g. 'achieved 99.9% uptime')"
+            ],
+            "rewrittenBullet": "Spearheaded engineering initiatives for Innovative Tech Labs, modernizing core application services to increase throughput by 30% while reducing bug escape rates by 45%."
+          }
+        ],
+        "strengths": [
+          "Good foundational technical background with verifiable credentials."
+        ],
+        "weaknesses": [
+          "Identified 1 key required skill gaps (Large Language Models).",
+          "Formatting opportunity: Missing direct contact telephone or email header."
+        ],
+        "executiveSummary": "Comprehensive screening indicates an ATS compatibility score of 44/100 for the Software Developer Intern position at You. Your profile demonstrates solid Good foundational technical background with verifiable credentials. but can be elevated by addressing 1 key skill gaps and embedding measurable business outcomes into your experience bullet points."
+      },
+      "profileSnapshot": {
+        "name": "Maniteja_Reddy_Resume_v3",
+        "email": "",
+        "phone": "2026070707",
+        "location": "United States",
+        "linkedin": "https://linkedin.com/in/maniteja-chinthareddy",
+        "github": "https://github.com/maniteja22",
+        "portfolio": "",
+        "summary": "1 0 obj << /Title ()",
+        "skills": {
+          "technical": [],
+          "soft": [],
+          "tools": [
+            "Git"
+          ],
+          "frameworks": [
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "languages": [
+            "JavaScript",
+            "TypeScript",
+            "C#",
+            "Go"
+          ]
+        },
+        "education": [
+          {
+            "institution": "State University",
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "year": "2022",
+            "gpa": "3.7 / 4.0"
+          }
+        ],
+        "experience": [
+          {
+            "company": "Innovative Tech Labs",
+            "role": "Software Engineer",
+            "duration": "2022 – Present",
+            "responsibilities": [
+              "Architected and deployed scalable backend services handling high-throughput web traffic.",
+              "Collaborated in cross-functional agile teams to deliver key user-facing features on schedule.",
+              "Implemented automated unit and integration test suites, reducing regression defects by 25%."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Analytics Platform",
+            "description": "Developed an interactive dashboard for telemetry streaming with responsive visual components.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "SQL"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect (Associate)"
+        ],
+        "achievements": [
+          "Dean's Honor List",
+          "Hackathon Finalist"
+        ],
+        "languages": [
+          "English (Professional)"
+        ]
+      },
+      "createdAt": "2026-10-01T10:11:26.809Z"
+    },
+    {
+      "id": "ana_1790848942112_jdimy",
+      "userId": "usr_demo_001",
+      "resumeId": "res_sophia_fullstack",
+      "resumeName": "Sophia_Chen_FullStack_Engineer.pdf",
+      "jobDescriptionId": "job_1790848918629_o5no",
+      "jobTitle": "Lead Frontend Engineer at Spotify",
+      "company": "Spotify",
+      "atsScore": 77,
+      "keywordScore": 100,
+      "semanticScore": 35,
+      "experienceScore": 86,
+      "formattingScore": 100,
+      "weights": {
+        "keyword": 0.3,
+        "semantic": 0.3,
+        "experience": 0.25,
+        "formatting": 0.15
+      },
+      "keywordDetails": {
+        "matched": [
+          {
+            "name": "JavaScript",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "TypeScript",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "React",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "Next.js",
+            "category": "technical",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "CSS",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "Tailwind CSS",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "GraphQL",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 1
+          },
+          {
+            "name": "Docker",
+            "category": "cloud_devops",
+            "foundInResume": true,
+            "frequency": 1
+          }
+        ],
+        "missing": [],
+        "totalRequired": 8,
+        "matchRate": 100,
+        "reason": "8 of 8 target keywords and domain competencies were detected in your resume, representing an exact/synonym match rate of 100%."
+      },
+      "semanticDetails": {
+        "similarityScore": 35,
+        "keyThemesDetected": [
+          "Software Engineering Architecture",
+          "Cloud Infrastructure & Automation"
+        ],
+        "reason": "Your resume exhibits a 35% contextual and conceptual alignment with the target role description, with strong overlap in Software Engineering Architecture and Cloud Infrastructure & Automation."
+      },
+      "experienceDetails": {
+        "qualificationFit": 95,
+        "experienceFit": 80,
+        "requiredYears": 5,
+        "detectedYears": 4,
+        "educationSatisfied": true,
+        "satisfiedRequirements": [
+          "Education: Candidate holds Bachelor of Science fulfilling requirement: Bachelor's Degree"
+        ],
+        "missingRequirements": [
+          "Experience timeline: Detected ~4 years, job specifies 5+ years"
+        ],
+        "reason": "Estimated 4 years of relevant work experience detected against 5 years required. Qualification fit is 95%."
+      },
+      "formattingDetails": {
+        "score": 100,
+        "checks": [
+          {
+            "id": "file_type",
+            "label": "Standard File Format (.pdf / .docx)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Resume is in standard ATS-parsable format."
+          },
+          {
+            "id": "extractability",
+            "label": "Direct Text Extractability",
+            "passed": true,
+            "severity": "pass",
+            "message": "Text layer was parsed with high fidelity."
+          },
+          {
+            "id": "contact_info",
+            "label": "Contact Information (Email & Phone/LinkedIn)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Contact info verified: sophia.chen@example.com"
+          },
+          {
+            "id": "education_section",
+            "label": "Standard Education Section",
+            "passed": true,
+            "severity": "pass",
+            "message": "Education section with degree details clearly recognized."
+          },
+          {
+            "id": "experience_section",
+            "label": "Professional Experience Section",
+            "passed": true,
+            "severity": "pass",
+            "message": "1 work experience roles parsed."
+          },
+          {
+            "id": "bullet_points",
+            "label": "Action-Oriented Bullet Consistency",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clear bullet points detected in project/experience descriptions."
+          },
+          {
+            "id": "layout_simplicity",
+            "label": "Single-Column Flow (ATS Safe)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clean single-column sequential text flow."
+          },
+          {
+            "id": "resume_length",
+            "label": "Optimal Resume Length (300 - 900 words)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Word count (220 words) is within optimal 1-2 page ATS guidelines."
+          }
+        ],
+        "summary": "8 of 8 structural ATS checks passed. Format is clean, parsable, and compliant with modern candidate tracking software."
+      },
+      "skillGap": {
+        "matchingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Next.js",
+          "CSS",
+          "Tailwind CSS"
+        ],
+        "missingSkills": [],
+        "additionalSkills": [
+          "REST APIs",
+          "GraphQL",
+          "Microservices",
+          "Responsive Design",
+          "SQL",
+          "Python",
+          "Node.js",
+          "Express",
+          "Docker",
+          "Git",
+          "PostgreSQL",
+          "Redis",
+          "AWS",
+          "Linux",
+          "Team Collaboration",
+          "Agile",
+          "Communication"
+        ],
+        "gapPercentage": 0
+      },
+      "predictedRoles": [
+        {
+          "role": "Full Stack Developer",
+          "score": 90,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Node.js",
+            "SQL",
+            "REST APIs",
+            "Next.js",
+            "PostgreSQL",
+            "Docker",
+            "Tailwind CSS",
+            "Git",
+            "AWS"
+          ],
+          "missingPoints": [],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, React, Node.js. Complete required stack matched."
+        },
+        {
+          "role": "Backend Developer",
+          "score": 78,
+          "category": "engineering",
+          "matchingPoints": [
+            "Node.js",
+            "Python",
+            "SQL",
+            "PostgreSQL",
+            "REST APIs",
+            "Git",
+            "Docker",
+            "Redis",
+            "TypeScript",
+            "Microservices",
+            "AWS"
+          ],
+          "missingPoints": [],
+          "reason": "Strong alignment detected with core competencies: Node.js, Python, SQL, PostgreSQL. Complete required stack matched."
+        },
+        {
+          "role": "Python Developer",
+          "score": 73,
+          "category": "engineering",
+          "matchingPoints": [
+            "Python",
+            "SQL",
+            "Django",
+            "FastAPI",
+            "Git",
+            "REST APIs",
+            "PostgreSQL",
+            "Docker",
+            "Linux",
+            "Redis"
+          ],
+          "missingPoints": [],
+          "reason": "Strong alignment detected with core competencies: Python, SQL, Django, FastAPI. Complete required stack matched."
+        },
+        {
+          "role": "Frontend Developer",
+          "score": 62,
+          "category": "engineering",
+          "matchingPoints": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "CSS",
+            "Tailwind CSS",
+            "Next.js",
+            "REST APIs",
+            "Git",
+            "Responsive Design"
+          ],
+          "missingPoints": [
+            "HTML"
+          ],
+          "reason": "Strong alignment detected with core competencies: JavaScript, TypeScript, React, CSS. Fulfilling HTML would elevate fit further."
+        },
+        {
+          "role": "Java Developer",
+          "score": 51,
+          "category": "engineering",
+          "matchingPoints": [
+            "SQL",
+            "REST APIs",
+            "Git",
+            "Microservices",
+            "PostgreSQL",
+            "Docker",
+            "Kubernetes"
+          ],
+          "missingPoints": [
+            "Java",
+            "Spring Boot"
+          ],
+          "reason": "Strong alignment detected with core competencies: SQL, REST APIs, Git, Microservices. Fulfilling Java, Spring Boot would elevate fit further."
+        }
+      ],
+      "recommendations": {
+        "resumeImprovements": [
+          "Quantify achievements: Transform duties into impact statements using the Google XYZ formula ('Accomplished [X] as measured by [Y], by doing [Z]').",
+          "Strengthen action verbs: Replace passive verbs ('assisted with', 'responsible for') with high-impact leadership verbs ('Architected', 'Spearheaded', 'Optimized', 'Automated').",
+          "Align section headlines: Ensure standard headers like 'Professional Experience', 'Technical Skills', and 'Education' match industry ATS parsing conventions."
+        ],
+        "missingKeywordsSuggestions": [],
+        "projectImprovements": [
+          {
+            "projectTitle": "Real-Time Collaborative Whiteboard",
+            "suggestedTitle": "Real-Time Collaborative Whiteboard — Scalable Distributed Architecture",
+            "techToMention": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "WebSocket"
+            ],
+            "impactAdvice": "Detail user scale, query latency reductions, or performance benchmarks to demonstrate business value.",
+            "rewrittenBullet": "Architected and deployed a Real-Time Collaborative Whiteboard using React, TypeScript, Node.js, reducing query response times by 35% and scaling to support 10,000+ active sessions."
+          }
+        ],
+        "experienceImprovements": [
+          {
+            "role": "Full Stack Developer at CloudScale Solutions",
+            "actionVerbs": [
+              "Architected",
+              "Engineered",
+              "Optimized",
+              "Spearheaded",
+              "Streamlined"
+            ],
+            "metricSuggestions": [
+              "Latency reduction (e.g. 'reduced latency by 40%')",
+              "Team throughput / velocity (e.g. 'boosted sprint delivery by 25%')",
+              "System availability (e.g. 'achieved 99.9% uptime')"
+            ],
+            "rewrittenBullet": "Spearheaded engineering initiatives for CloudScale Solutions, modernizing core application services to increase throughput by 30% while reducing bug escape rates by 45%."
+          }
+        ],
+        "strengths": [
+          "High keyword alignment (100%): strong presence of domain-specific technical terminology.",
+          "ATS structural compliance: clear headings, chronological flow, and machine-readable text."
+        ],
+        "weaknesses": [
+          "Total detected timeline (~4 yrs) is under the target job requirement (5 yrs)."
+        ],
+        "executiveSummary": "Comprehensive screening indicates an ATS compatibility score of 77/100 for the Lead Frontend Engineer at Spotify position at Spotify. Your profile demonstrates solid High keyword alignment (100%): strong presence of domain-specific technical terminology. but can be elevated by addressing 0 key skill gaps and embedding measurable business outcomes into your experience bullet points."
+      },
+      "profileSnapshot": {
+        "name": "Sophia Chen",
+        "email": "sophia.chen@example.com",
+        "phone": "(206) 555-8391",
+        "location": "Seattle, WA",
+        "linkedin": "https://linkedin.com/in/sophiachen-dev",
+        "github": "https://github.com/schen-fullstack",
+        "summary": "Innovative Full Stack Developer with 4 years of experience building modern React, TypeScript, and Node.js applications.",
+        "skills": {
+          "technical": [
+            "REST APIs",
+            "GraphQL",
+            "Microservices",
+            "Responsive Design"
+          ],
+          "languages": [
+            "TypeScript",
+            "JavaScript",
+            "SQL",
+            "Python"
+          ],
+          "frameworks": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "Express",
+            "Tailwind CSS"
+          ],
+          "tools": [
+            "Docker",
+            "Git",
+            "PostgreSQL",
+            "Redis",
+            "AWS",
+            "Linux"
+          ],
+          "soft": [
+            "Team Collaboration",
+            "Agile",
+            "Communication"
+          ]
+        },
+        "education": [
+          {
+            "institution": "University of Washington",
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "year": "2020",
+            "gpa": "3.8 / 4.0"
+          }
+        ],
+        "experience": [
+          {
+            "company": "CloudScale Solutions",
+            "role": "Full Stack Developer",
+            "duration": "2022 – Present",
+            "responsibilities": [
+              "Engineered high-performance dashboard interfaces using React, Next.js, and TypeScript, serving 80,000+ daily active users.",
+              "Built resilient Node.js microservices with PostgreSQL and Redis caching, cutting average API response times by 45%."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Real-Time Collaborative Whiteboard",
+            "description": "Full stack canvas app using React, WebSocket, and Express with state sync.",
+            "technologies": [
+              "React",
+              "TypeScript",
+              "Node.js",
+              "WebSocket"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Developer Associate"
+        ],
+        "achievements": [
+          "Hackathon Winner 2023"
+        ],
+        "languages": [
+          "English (Native)",
+          "Mandarin (Conversational)"
+        ]
+      },
+      "createdAt": "2026-10-01T10:02:22.112Z"
+    },
+    {
+      "id": "ana_alex_synthetix_01",
+      "userId": "usr_demo_001",
+      "resumeId": "res_alex_ml",
+      "resumeName": "Alex_Rivera_Senior_ML_Engineer.pdf",
+      "jobDescriptionId": "job_ml_eng",
+      "jobTitle": "Senior Machine Learning Engineer",
+      "company": "Synthetix AI Labs",
+      "atsScore": 84,
+      "keywordScore": 86,
+      "semanticScore": 88,
+      "experienceScore": 92,
+      "formattingScore": 88,
+      "weights": {
+        "keyword": 0.3,
+        "semantic": 0.3,
+        "experience": 0.25,
+        "formatting": 0.15
+      },
+      "keywordDetails": {
+        "matched": [
+          {
+            "name": "Python",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 6
+          },
+          {
+            "name": "Machine Learning",
+            "category": "ai_ml",
+            "foundInResume": true,
+            "frequency": 5
+          },
+          {
+            "name": "PyTorch",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 4
+          },
+          {
+            "name": "Deep Learning",
+            "category": "ai_ml",
+            "foundInResume": true,
+            "frequency": 3
+          },
+          {
+            "name": "Scikit-Learn",
+            "category": "framework",
+            "foundInResume": true,
+            "frequency": 2
+          },
+          {
+            "name": "SQL",
+            "category": "programming_language",
+            "foundInResume": true,
+            "frequency": 2
+          },
+          {
+            "name": "Docker",
+            "category": "cloud_devops",
+            "foundInResume": true,
+            "frequency": 2
+          }
+        ],
+        "missing": [
+          {
+            "name": "Transformers",
+            "category": "ai_ml",
+            "foundInResume": false,
+            "frequency": 0
+          }
+        ],
+        "totalRequired": 7,
+        "matchRate": 86,
+        "reason": "Matched 6 of 7 primary job requirements with strong multi-term density across work experience and projects."
+      },
+      "semanticDetails": {
+        "similarityScore": 88,
+        "keyThemesDetected": [
+          "Foundation Model Deployment",
+          "High-Throughput ML Microservices",
+          "Distributed Model Training"
+        ],
+        "reason": "Your resume exhibits an 88% contextual match with the target job's deep learning and MLOps ecosystem."
+      },
+      "experienceDetails": {
+        "qualificationFit": 95,
+        "experienceFit": 90,
+        "requiredYears": 3,
+        "detectedYears": 5,
+        "educationSatisfied": true,
+        "satisfiedRequirements": [
+          "5+ years professional experience (Job requires 3+ years)",
+          "Candidate holds Master of Science in Computer Science, fulfilling requirement"
+        ],
+        "missingRequirements": [],
+        "reason": "Estimated 5 years of relevant work experience detected against 3 years required. Qualification fit is 95%."
+      },
+      "formattingDetails": {
+        "score": 88,
+        "checks": [
+          {
+            "id": "file_type",
+            "label": "Standard File Format (.pdf)",
+            "passed": true,
+            "severity": "pass",
+            "message": "Standard PDF format."
+          },
+          {
+            "id": "extractability",
+            "label": "Direct Text Extractability",
+            "passed": true,
+            "severity": "pass",
+            "message": "Clean text stream extracted without OCR artifacts."
+          },
+          {
+            "id": "contact_info",
+            "label": "Contact Information Header",
+            "passed": true,
+            "severity": "pass",
+            "message": "Email, phone number, and LinkedIn profile detected."
+          },
+          {
+            "id": "education_section",
+            "label": "Education Credentials",
+            "passed": true,
+            "severity": "pass",
+            "message": "Degrees from Stanford and UC Berkeley recognized."
+          },
+          {
+            "id": "bullet_points",
+            "label": "Consistent Action Bullets",
+            "passed": true,
+            "severity": "pass",
+            "message": "Consistent bullet hierarchy detected."
+          },
+          {
+            "id": "layout_simplicity",
+            "label": "Single-Column Flow",
+            "passed": true,
+            "severity": "pass",
+            "message": "Sequential single-column ATS reading flow."
+          }
+        ],
+        "summary": "Resume structure conforms to top-tier ATS parsing guidelines."
+      },
+      "skillGap": {
+        "matchingSkills": [
+          "Python",
+          "Machine Learning",
+          "PyTorch",
+          "Deep Learning",
+          "Scikit-Learn",
+          "SQL",
+          "Docker"
+        ],
+        "missingSkills": [
+          "Transformers"
+        ],
+        "additionalSkills": [
+          "C++",
+          "Apache Spark",
+          "Airflow",
+          "MLflow",
+          "Kubernetes",
+          "AWS"
+        ],
+        "gapPercentage": 14
+      },
+      "predictedRoles": [
+        {
+          "role": "Machine Learning Engineer",
+          "score": 94,
+          "category": "ai_data",
+          "matchingPoints": [
+            "Python",
+            "Machine Learning",
+            "PyTorch",
+            "Deep Learning",
+            "Scikit-Learn",
+            "SQL"
+          ],
+          "missingPoints": [],
+          "reason": "Exceptional alignment: 5+ years experience building PyTorch and Scikit-Learn models with MLOps infrastructure."
+        },
+        {
+          "role": "Data Scientist",
+          "score": 89,
+          "category": "ai_data",
+          "matchingPoints": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Data Analysis",
+            "Statistics"
+          ],
+          "missingPoints": [],
+          "reason": "Strong foundation in predictive statistical modeling, data manipulation with Pandas, and quantitative analysis."
+        },
+        {
+          "role": "AI Engineer",
+          "score": 87,
+          "category": "ai_data",
+          "matchingPoints": [
+            "Python",
+            "Large Language Models",
+            "PyTorch",
+            "REST APIs"
+          ],
+          "missingPoints": [],
+          "reason": "Demonstrated production LLM fine-tuning and API integration experience."
+        },
+        {
+          "role": "Data Engineer",
+          "score": 79,
+          "category": "ai_data",
+          "matchingPoints": [
+            "Python",
+            "SQL",
+            "Apache Spark",
+            "Airflow",
+            "Data Pipelines"
+          ],
+          "missingPoints": [],
+          "reason": "Hands-on experience processing 25TB datasets and orchestrating pipelines with Spark."
+        }
+      ],
+      "recommendations": {
+        "resumeImprovements": [
+          "Include Hugging Face / Transformers explicitly in the skills section to address the preferred qualification.",
+          "Highlight latency benchmarks (e.g. p99 response times) in the REST API bullet points.",
+          "Add measurable business impact regarding model accuracy improvements."
+        ],
+        "missingKeywordsSuggestions": [
+          {
+            "keyword": "Transformers",
+            "category": "Framework",
+            "suggestion": "Consider mentioning 'Transformers' or Hugging Face if you have worked with transformer attention architectures.",
+            "reason": "Target job lists Transformers in preferred qualifications."
+          }
+        ],
+        "projectImprovements": [
+          {
+            "projectTitle": "Agentic RAG Document Assistant",
+            "suggestedTitle": "Agentic RAG Retrieval Engine — Distributed Architecture",
+            "techToMention": [
+              "PyTorch",
+              "FastAPI",
+              "Docker",
+              "FAISS"
+            ],
+            "impactAdvice": "Detail retrieval precision and sub-second latency under concurrency.",
+            "rewrittenBullet": "Architected an Agentic RAG document assistant with PyTorch, FAISS, and FastAPI, achieving sub-250ms retrieval latency across 100k indexed technical documents."
+          }
+        ],
+        "experienceImprovements": [
+          {
+            "role": "Senior Machine Learning Engineer at Nexus Neural Labs",
+            "actionVerbs": [
+              "Spearheaded",
+              "Architected",
+              "Engineered",
+              "Optimized"
+            ],
+            "metricSuggestions": [
+              "Throughput scale (4,500 req/sec)",
+              "Training cost reduction (-38%)",
+              "Cluster uptime (99.98%)"
+            ],
+            "rewrittenBullet": "Spearheaded distributed LLM fine-tuning pipelines using PyTorch and DeepSpeed, reducing compute costs by 38% while sustaining 99.98% production uptime at 4,500 req/sec."
+          }
+        ],
+        "strengths": [
+          "Exceptional PyTorch and distributed machine learning pipeline expertise.",
+          "Strong MLOps background with Docker, Kubernetes, and AWS SageMaker.",
+          "Top-tier educational credentials (Stanford M.S. CS, UC Berkeley B.S.)."
+        ],
+        "weaknesses": [
+          "Minor opportunity to explicitly highlight Transformers and vector database indexing."
+        ],
+        "executiveSummary": "Dr. Alex Rivera exhibits an outstanding 84/100 ATS compatibility for the Senior Machine Learning Engineer position at Synthetix AI Labs. The candidate exceeds required tenure, holds an advanced degree, and displays high-density PyTorch, Python, and MLOps expertise."
+      },
+      "profileSnapshot": {
+        "name": "Dr. Alex Rivera",
+        "email": "alex.rivera@example.com",
+        "phone": "(415) 555-0192",
+        "location": "San Francisco, CA",
+        "linkedin": "https://linkedin.com/in/alex-rivera-ai",
+        "github": "https://github.com/arivera-ml",
+        "summary": "Senior Machine Learning Engineer with 5+ years of experience architecting end-to-end deep learning systems, distributed training pipelines, and real-time inference microservices.",
+        "skills": {
+          "technical": [
+            "Machine Learning",
+            "Deep Learning",
+            "Predictive Modeling",
+            "Computer Vision",
+            "NLP"
+          ],
+          "languages": [
+            "Python",
+            "SQL",
+            "C++"
+          ],
+          "frameworks": [
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-Learn",
+            "Keras",
+            "Transformers"
+          ],
+          "tools": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Git",
+            "Linux",
+            "PostgreSQL",
+            "MLflow"
+          ],
+          "soft": [
+            "Problem Solving",
+            "Leadership",
+            "Communication",
+            "Agile Methodologies"
+          ]
+        },
+        "education": [
+          {
+            "institution": "Stanford University",
+            "degree": "Master of Science",
+            "major": "Computer Science",
+            "year": "2021",
+            "gpa": "3.9 / 4.0"
+          },
+          {
+            "institution": "UC Berkeley",
+            "degree": "Bachelor of Science",
+            "major": "Electrical Engineering & CS",
+            "year": "2019",
+            "gpa": "3.8 / 4.0"
+          }
+        ],
+        "experience": [
+          {
+            "company": "Nexus Neural Labs",
+            "role": "Senior Machine Learning Engineer",
+            "duration": "2023 – Present",
+            "responsibilities": [
+              "Architected scalable distributed LLM fine-tuning pipelines using PyTorch and DeepSpeed, reducing model training costs by 38%.",
+              "Engineered low-latency REST inference APIs deployed on Kubernetes clusters, maintaining 99.98% uptime at 4,500 req/sec.",
+              "Optimized feature extraction pipelines using Python, Pandas, and Apache Spark for 25TB multi-modal datasets."
+            ]
+          },
+          {
+            "company": "Apex Data Systems",
+            "role": "Machine Learning Engineer",
+            "duration": "2021 – 2023",
+            "responsibilities": [
+              "Deployed production predictive modeling classifiers using Scikit-Learn and XGBoost, improving churn detection accuracy by 24%.",
+              "Built automated CI/CD model validation pipelines using Docker, MLflow, and GitHub Actions.",
+              "Collaborated with product engineers to integrate model endpoints into customer-facing analytics dashboards."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "title": "Agentic RAG Document Assistant",
+            "description": "Built enterprise question-answering system using LangChain, FAISS, PyTorch, and FastAPI with citation grounding.",
+            "technologies": [
+              "Python",
+              "PyTorch",
+              "FastAPI",
+              "Docker",
+              "RAG"
+            ]
+          },
+          {
+            "title": "VisionNet Real-Time Object Classifier",
+            "description": "Developed lightweight CNN edge model achieving 89% mAP at 60 FPS on Jetson Xavier.",
+            "technologies": [
+              "TensorFlow",
+              "OpenCV",
+              "Python",
+              "CUDA"
+            ]
+          }
+        ],
+        "certifications": [
+          "AWS Certified Machine Learning — Specialty",
+          "Deep Learning Specialization"
+        ],
+        "achievements": [
+          "Published paper on Efficient Transformer Quantization",
+          "NeurIPS Workshop Presenter"
+        ],
+        "languages": [
+          "English (Native)",
+          "Spanish (Fluent)"
+        ]
+      },
+      "createdAt": "2026-09-24T16:00:00.000Z"
+    }
+  ]
+}
